@@ -1,6 +1,10 @@
 name: Daily Scrape & Upload
 
 on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
   schedule:
     - cron: '0 8 * * *'  # Run daily at 8 AM UTC
   workflow_dispatch:  # Manual trigger
