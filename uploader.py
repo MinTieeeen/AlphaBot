@@ -4,6 +4,7 @@ Uploads markdown files to OpenAI Vector Store via API
 """
 import os
 import logging
+import time
 from pathlib import Path
 from typing import Dict, List
 
@@ -19,6 +20,18 @@ except ImportError:
     OpenAI = None
 
 log = logging.getLogger(__name__)
+
+def retry_on_error(func, max_retries=5, delay=5):
+    """Retry function on error with exponential backoff"""
+    for attempt in range(max_retries):
+        try:
+            return func()
+        except Exception as e:
+            if attempt == max_retries - 1:
+                raise
+            wait_time = delay * (2 ** attempt)
+            log.warning(f"Attempt {attempt + 1} failed: {e}. Retrying in {wait_time}s...")
+            time.sleep(wait_time)
 
 class VectorStoreUploader:
     """Uploads markdown files to OpenAI Vector Store"""
@@ -44,7 +57,9 @@ class VectorStoreUploader:
 
         if self.vector_store_id:
             try:
-                self._vector_store = self.client.vector_stores.retrieve(self.vector_store_id)
+                self._vector_store = retry_on_error(
+                    lambda: self.client.vector_stores.retrieve(self.vector_store_id)
+                )
                 log.info(f"Using existing vector store: {self.vector_store_id}")
                 return self._vector_store
             except Exception as e:
@@ -52,8 +67,8 @@ class VectorStoreUploader:
 
         # Create new vector store
         if not self.dry_run:
-            self._vector_store = self.client.vector_stores.create(
-                name="AlphaBot Knowledge Base"
+            self._vector_store = retry_on_error(
+                lambda: self.client.vector_stores.create(name="AlphaBot Knowledge Base")
             )
             self.vector_store_id = self._vector_store.id
             log.info(f"Created new vector store: {self.vector_store_id}")
