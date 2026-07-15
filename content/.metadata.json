@@ -108,7 +108,7 @@
     "47616485609491": {
       "title": "How to Use the OptiDev App",
       "url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App",
-      "hash": "fc217ac08e37c22d20f933229653bbb15a47fc7a6160cb01b1fe4d74d3d3d48c",
+      "hash": "51cb61dd350431750c4caa0057c4455bc8b8e10a200eb50d6a80c4c81406ff52",
       "filename": "content/how-to-use-the-optidev-app.md",
       "updated_at": "2026-02-11T23:03:49Z"
     },
@@ -157,8 +157,8 @@
     "40671590645651": {
       "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
       "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
-      "hash": "bc582f1d442ee60ad850e5a8a48f296f7b1b72b44c9f2ee7ae0c08e56d9ccbcf",
-      "filename": "content\\how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
+      "hash": "c1daa59cab250499f6315c66a61a325e91ba8beaf74b1cc173023deb5a274b9c",
+      "filename": "content/how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
       "updated_at": "2026-04-08T22:33:37Z"
     },
     "40212027797523": {
@@ -304,14 +304,14 @@
     "31113088917907": {
       "title": "How to use Toast API data with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns",
-      "hash": "0d13e3d64bcd42ec8ac19638965783f4903801332c53bc70626e3b408c399676",
-      "filename": "content\\how-to-use-toast-api-data-with-optisigns.md",
+      "hash": "d4abb3becc287f882f36228743138b51931437bb4bac86e7716f7e070468e96e",
+      "filename": "content/how-to-use-toast-api-data-with-optisigns.md",
       "updated_at": "2025-09-02T20:24:12Z"
     },
     "30310366838803": {
       "title": "Enabling Lock Down Mode on Touch Screen Devices",
       "url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices",
-      "hash": "d479a2866468302b719e65b978ef947c72ec65039351da7327fce0a5f028f672",
+      "hash": "49d1f8319a3d925e6e4782ff8686715b6fbb16c77946dcadbf04eb2015c376b8",
       "filename": "content/enabling-lock-down-mode-on-touch-screen-devices.md",
       "updated_at": "2026-04-21T19:22:05Z"
     },
@@ -351,5 +351,5 @@
       "updated_at": "2025-09-04T14:01:30Z"
     }
   },
-  "last_run": "2026-07-15T04:43:28.848730"
+  "last_run": "2026-07-15T04:55:38.861430"
 }
