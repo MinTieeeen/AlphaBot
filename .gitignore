@@ -19,9 +19,8 @@ venv/
 *.swo
 
 # Project specific
-content/*.md
-!content/.gitkeep
-.metadata.json
+# content/*.md - TRACKED for delta detection
+# .metadata.json - TRACKED for delta detection
 
 # Logs
 *.log
