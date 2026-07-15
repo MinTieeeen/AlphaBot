@@ -133,19 +133,22 @@ class VectorStoreUploader:
             return {'status': 'dry_run', 'chunks': 0}
 
         try:
+            # Step 1: Upload file to OpenAI
             with open(file_path, 'rb') as f:
-                result = self.client.vector_stores.vector_store_files.upload_and_poll(
-                    vector_store_id=self.vector_store.id,
-                    file=(
-                        file_name,
-                        f,
-                        'text/markdown'
-                    )
+                file_obj = self.client.files.create(
+                    file=f,
+                    purpose="assistants"
                 )
+
+            # Step 2: Attach file to vector store
+            vs_file = self.client.vector_stores.files.create(
+                vector_store_id=self.vector_store.id,
+                file_id=file_obj.id
+            )
 
             return {
                 'status': 'completed',
-                'file_id': result.id,
+                'file_id': file_obj.id,
                 'chunks': 1
             }
 

@@ -6,6 +6,11 @@ import argparse
 import os
 import sys
 import logging
+import io
+
+# Fix Unicode output on Windows
+if sys.platform == 'win32':
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # Handle missing dotenv gracefully
 try:
