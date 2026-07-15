@@ -6,7 +6,24 @@ on:
   workflow_dispatch:  # Manual trigger
 
 jobs:
-  run:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest test_main.py -v
+
+  scrape:
+    needs: test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,6 +38,20 @@ jobs:
 
       - name: Run scraper
         run: python main.py --scrape
+
+  upload:
+    needs: scrape
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Run uploader
         env:
