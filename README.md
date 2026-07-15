@@ -61,4 +61,4 @@ Automated daily job runs at 8 AM UTC via GitHub Actions.
 
 ## Screenshot
 
-![Assistant Demo](screenshot.png)
+![Assistant Demo](Screenshot.png)
