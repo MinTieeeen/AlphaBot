@@ -1,47 +1,66 @@
 # AlphaBot - OptiSigns Support Assistant
 
-Lightweight chatbot that answers questions about OptiSigns using RAG (Retrieval-Augmented Generation).
+RAG-based chatbot that answers questions about OptiSigns using your uploaded documentation.
 
 ## Quick Start
 
 ```bash
-# 1. Clone & install
-git clone <your-repo>
-cd alphabot
+# Install dependencies
 pip install -r requirements.txt
 
-# 2. Configure
+# Configure
 cp .env.sample .env
-# Edit .env and add your OPENAI_API_KEY
+# Add your OPENAI_API_KEY to .env
 
-# 3. Run scraper (downloads articles)
+# Run scraper (downloads articles)
 python main.py --scrape
 
-# 4. Upload to vector store
+# Upload to vector store
 python main.py --upload
 
-# 5. Verify
+# Test the assistant
 python main.py --test "How do I add a YouTube video?"
 ```
 
 ## Docker
 
 ```bash
+# Build
 docker build -t alphabot .
+
+# Run (one-shot, exits after completion)
 docker run -e OPENAI_API_KEY=sk-xxx alphabot
 ```
 
+## Deployment (Railway)
+
+1. Fork/clone this repo to GitHub
+2. Create account at [railway.app](https://railway.app)
+3. New Project → Deploy from GitHub repo
+4. Add Environment Variable: `OPENAI_API_KEY`
+5. Add Persistent Disk (for content/)
+6. Set up Cron Job:
+   - Project Settings → Triggers → New Trigger
+   - Schedule: `@daily` or `0 0 * * *`
+   - Command: `python main.py --scrape --upload`
+
 ## Architecture
 
-- `main.py` - Orchestrates scrape → upload workflow
-- `scraper.py` - Downloads articles from OptiSigns support
-- `uploader.py` - Uploads markdown to OpenAI Vector Store
-- `content/` - Cached markdown files
+| File | Purpose |
+|------|---------|
+| `main.py` | Entry point, orchestrates workflow |
+| `scraper.py` | Fetches articles via Zendesk API |
+| `uploader.py` | Uploads MD to OpenAI Vector Store |
+| `assistant.py` | Tests chatbot via API |
+| `content/` | Cached markdown files |
 
-## Daily Job
+## Chunking Strategy
 
-Deployed on Railway/Render with daily cron trigger.
-Job logs: [Link to deployment logs]
+Files are split by paragraphs (double newlines), combined until 1000 chars, with 200 char overlap. This preserves semantic context while keeping chunks manageable.
+
+## Logs
+
+Job execution logs available in Railway dashboard under Deployments → Logs.
 
 ## Screenshot
 
