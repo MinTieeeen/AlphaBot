@@ -1,0 +1,29 @@
+name: Daily Scrape & Upload
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Run daily at 8 AM UTC
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python main.py --scrape
+
+      - name: Run uploader
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          VECTOR_STORE_ID: ${{ secrets.VECTOR_STORE_ID }}
+        run: python main.py --upload
