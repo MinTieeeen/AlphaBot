@@ -51,7 +51,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add content/ .metadata.json
+          git add content/
+          if [ -f .metadata.json ]; then git add .metadata.json; fi
           git diff --staged --quiet || git commit -m "chore: update scraped content [skip ci]"
           git push
 
