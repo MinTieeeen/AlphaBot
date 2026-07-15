@@ -48,6 +48,12 @@ docker run -e OPENAI_API_KEY=sk-xxx alphabot
 
 Files are split by paragraphs (double newlines), combined until 1000 chars, with 200 char overlap. This preserves semantic context while keeping chunks manageable.
 
+## Deployment
+
+**Railway:** https://railway.com/project/44d73c3a-9e56-4b59-8112-c2e37a42408b
+
+**GitHub Actions:** https://github.com/MinTieeeen/AlphaBot/actions
+
 ## Daily Job
 
 Automated daily job runs at 8 AM UTC via GitHub Actions.
