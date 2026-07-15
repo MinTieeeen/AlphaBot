@@ -2,6 +2,8 @@
 
 RAG-based chatbot that answers questions about OptiSigns using your uploaded documentation.
 
+[![Daily Scrape & Upload](https://github.com/MinTieeeen/AlphaBot/actions/workflows/daily.yml/badge.svg)](https://github.com/MinTieeeen/AlphaBot/actions)
+
 ## Quick Start
 
 ```bash
@@ -32,18 +34,6 @@ docker build -t alphabot .
 docker run -e OPENAI_API_KEY=sk-xxx alphabot
 ```
 
-## Deployment (Railway)
-
-1. Fork/clone this repo to GitHub
-2. Create account at [railway.app](https://railway.app)
-3. New Project → Deploy from GitHub repo
-4. Add Environment Variable: `OPENAI_API_KEY`
-5. Add Persistent Disk (for content/)
-6. Set up Cron Job:
-   - Project Settings → Triggers → New Trigger
-   - Schedule: `@daily` or `0 0 * * *`
-   - Command: `python main.py --scrape --upload`
-
 ## Architecture
 
 | File | Purpose |
@@ -58,9 +48,16 @@ docker run -e OPENAI_API_KEY=sk-xxx alphabot
 
 Files are split by paragraphs (double newlines), combined until 1000 chars, with 200 char overlap. This preserves semantic context while keeping chunks manageable.
 
-## Logs
+## Daily Job
 
-Job execution logs available in Railway dashboard under Deployments → Logs.
+Automated daily job runs at 8 AM UTC via GitHub Actions.
+
+**Features:**
+- Delta detection (only scrape/upload changed articles)
+- Log counts: added, updated, skipped
+- Commits content changes to git
+
+**Job Logs:** https://github.com/MinTieeeen/AlphaBot/actions
 
 ## Screenshot
 
