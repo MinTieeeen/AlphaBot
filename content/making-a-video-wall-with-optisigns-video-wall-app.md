@@ -39,7 +39,7 @@ To set up a video wall for use in the Video Wall app, you’ll need:
 
 **NOTE**  
 ---  
-The Video Wall App can _**only**_ be used with the OptiSigns Pro or ProMax Player. It cannot be used in any other capacity.   
+The Video Wall App can _**only**_ be used with the OptiSigns Pro or ProMax Player. It cannot be used in any other capacity.  
 **A NOTE ON PRICING**  
 ---  
 The license and Video Wall app apply to the player, not the number of screens. In other words, you will only need one license per video wall, regardless of the number of screens used. Example: say you have a Pro Plus plan license at $15/month. You then want to make a 4-screen video wall using a ProMax Player. You buy a single Video Wall add-on. This lets you run a 4-screen video wall at $40/month. That same $40/month could be used to run a 2 or 3 screen video wall as well.  
@@ -52,6 +52,7 @@ With the Video Wall app, you can push content to multiple screens at once. There
 
   * The ProMax Player is our _**most recommended** _option if you're looking to use a video wall with digital signage. It allows for 4K video per screen and our full range of options, with up to four screens usable in any orientation.
   * The Pro Player can handle up to 3 screens at a time, at 1080p max resolution.
+  * You are unable to output to multiple screens at once without the Video Wall app.
 
 
 

@@ -17,7 +17,7 @@
     "53095698149011": {
       "title": "Using the Japan Earthquake App",
       "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-      "hash": "2c658107545cf6a594a1f0fcb60c143c266d234db88c625849d8fefbb933066b",
+      "hash": "c466c436305f617b9010d56c13d7ffd5e93254fa5b3a6b131b79f979b7540009",
       "filename": "content/using-the-japan-earthquake-app.md",
       "updated_at": "2026-07-08T18:39:51Z"
     },
@@ -31,42 +31,42 @@
     "52523606879251": {
       "title": "OptiSigns Digital Signage App for Zoom \u2014 Adding, Using, and Removing the App",
       "url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
-      "hash": "33c651bca422a359906013176b0aecb037ca6da4d0523f308367495c711035f0",
+      "hash": "958f02cee14dba132b8a3ec5ce0d4a1944bbe1b3bed6177be5c7775671c60a88",
       "filename": "content/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md",
       "updated_at": "2026-06-11T22:24:43Z"
     },
     "52412502456083": {
       "title": "Connect Google Meet Hardware to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage",
-      "hash": "6d049ab7a6a224cd6f9a30a294d40a008570130a2c875c5c4885f7d7aa5ac808",
+      "hash": "290a80b683cd911e4a13dc7f47c25ce98188158b598e196f48bbcb121750d445",
       "filename": "content/connect-google-meet-hardware-to-optisigns-digital-signage.md",
       "updated_at": "2026-06-15T19:14:07Z"
     },
     "52350277262483": {
       "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "902a766209f853ce1beef07a371e60760a67a71aa74df16e1f4e723ad9c90a2f",
+      "hash": "4ccc40c3f729f7302f50864f9df30c3b07f00746bdaba613372731896cd27563",
       "filename": "content/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-06-24T18:39:16Z"
     },
     "52113036672403": {
       "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-      "hash": "54de42b6b583bc0dd502d071f90853007f79be2acdd328855de6a4d46e00d8ff",
+      "hash": "669c7189e8b3e4a6219eced731f1c80b1b044355d7f9b65e45538e6d797703f2",
       "filename": "content/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
       "updated_at": "2026-07-08T14:58:11Z"
     },
     "52069065128723": {
       "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "352bc704ac681b55e0939510653c5c23464a63d7f0722a19595d201800dd176c",
+      "hash": "504a3886967fd77e880d102a2423dd660852d975ce9eccf124758625ecc170ef",
       "filename": "content/connect-zoom-rooms-to-optisigns-digital-signage.md",
-      "updated_at": "2026-06-11T22:22:00Z"
+      "updated_at": "2026-07-17T22:17:54Z"
     },
     "51343184586643": {
       "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "eb5bf4aec15c13e3d6bb23a8ee42f1eceeb99e4b6074ce52f5a0da400a78dd85",
+      "hash": "e1baa8eef3e24bb18dc1414cbe77b5bca7ba6fbba60425eaf06a864cf0138fb0",
       "filename": "content/connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-07-01T16:55:46Z"
     },
@@ -108,7 +108,7 @@
     "47616485609491": {
       "title": "How to Use the OptiDev App",
       "url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App",
-      "hash": "a3449583e66fe6827a93224c7171b4d00b75514d3c2d2a4590e9d055b3981fcf",
+      "hash": "f5f7689b9d7573ed2a077173a82cad6206ef44c617a053c7521fca00fba81a30",
       "filename": "content/how-to-use-the-optidev-app.md",
       "updated_at": "2026-02-11T23:03:49Z"
     },
@@ -164,7 +164,7 @@
     "40212027797523": {
       "title": "Disk Encryption",
       "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption",
-      "hash": "a0194faf78c149104e98978569ae59e1cfa7cb0d8314b439ca03613cb8cb20b0",
+      "hash": "b13f4ea0c71cfb2f2fdedd0b386d9497d9fc12e8b78c76c6827798db0b5a25d1",
       "filename": "content/disk-encryption.md",
       "updated_at": "2025-09-04T16:19:23Z"
     },
@@ -185,7 +185,7 @@
     "39250660729747": {
       "title": "How to Use the Tableau App",
       "url": "https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App",
-      "hash": "2fbb43a94ff3999119ae19d3697b4793de4dd136289d4a8563de4570dcd43361",
+      "hash": "d6b994e536c430223f3a2703907cf186e452953de59e210170f4b628c8f69a03",
       "filename": "content/how-to-use-the-tableau-app.md",
       "updated_at": "2026-01-06T22:36:49Z"
     },
@@ -255,9 +255,9 @@
     "33382537925267": {
       "title": "Making a Video Wall with OptiSigns (Video Wall App)",
       "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "hash": "8c317e14616a87ea06d55a390ad597e1cf26b549bba6002ee809403fd440f794",
+      "hash": "88236f3deaefce59c63f6673cd914ef4e6c1202b92cf673cf2666cc31744b1f7",
       "filename": "content/making-a-video-wall-with-optisigns-video-wall-app.md",
-      "updated_at": "2025-12-11T15:16:23Z"
+      "updated_at": "2026-07-17T16:59:32Z"
     },
     "32860569148819": {
       "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
@@ -318,7 +318,7 @@
     "30304278652563": {
       "title": "How to Use the Mobile App for Remote Control",
       "url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
-      "hash": "4b38356e4cede082b815a15a433f2bcdee606554a1a4df3a386e501d4eddbf9b",
+      "hash": "c8ef26ff6dcfffb23c7b063759d755b28cfad73ef9c390aa695c05f405c697bf",
       "filename": "content/how-to-use-the-mobile-app-for-remote-control.md",
       "updated_at": "2025-09-04T20:14:54Z"
     },
@@ -358,5 +358,5 @@
       "updated_at": "2026-07-16T16:39:52Z"
     }
   },
-  "last_run": "2026-07-17T10:06:54.931682"
+  "last_run": "2026-07-18T09:41:09.070086"
 }
