@@ -3,14 +3,14 @@
     "53293393593491": {
       "title": "Refer & Earn: OptiSigns Referral Program",
       "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
-      "hash": "e552383f8baa882fb7bd36f2dd70d45f756c9bef57d5ddf9e43088c28f6c512b",
+      "hash": "42cc8ae5f38d17143df83069b471969e76991d27676e8da515d2f1facb7f070f",
       "filename": "content/refer-earn-optisigns-referral-program.md",
       "updated_at": "2026-07-08T17:09:50Z"
     },
     "53216900345875": {
       "title": "What Access Does OptiSigns Have to My Account and Devices?",
       "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
-      "hash": "29286265d7f07c1fb63de89b19f1463e254e1b623b85a7d81e7776d50f3c9065",
+      "hash": "db7bf18dfdc6177a64b935fd24688fb22e28841da456b70438458cb8769f9464",
       "filename": "content/what-access-does-optisigns-have-to-my-account-and-devices.md",
       "updated_at": "2026-07-06T15:29:04Z"
     },
@@ -24,7 +24,7 @@
     "53028011485715": {
       "title": "How to Display a Snowflake Dashboard with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
-      "hash": "bc33569d8b04322e72ad6f75da7f9de2d961ad7c49f7f25f86a0d75d1fbc6e7f",
+      "hash": "d9ba2a2dadbb4a43f28537106ea39fbc35fa9bca251475fac8e6031add979e13",
       "filename": "content/how-to-display-a-snowflake-dashboard-with-optisigns.md",
       "updated_at": "2026-07-01T21:59:22Z"
     },
@@ -73,35 +73,35 @@
     "49039295567891": {
       "title": "ChromeOS PWA Instructions",
       "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
-      "hash": "f44f79a8c3f65d7804d820c3bd8f13b849729a384459ed328f1a4c08df132098",
+      "hash": "1d4ed0cc387f3d6c8b427db87893ada0421591567553beacd0666b268beacb98",
       "filename": "content/chromeos-pwa-instructions.md",
       "updated_at": "2026-05-05T15:48:27Z"
     },
     "48751096814995": {
       "title": "How to Use the Google Ads Dashboard App",
       "url": "https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App",
-      "hash": "d8194779fbab1d87bd81dfec5a5afeb04ab96b19c64c327428e0d0732ede6053",
+      "hash": "3eac2e2ca65f38b03821b304cfee284922b78142773f6e5266e92e2267fe7a22",
       "filename": "content/how-to-use-the-google-ads-dashboard-app.md",
       "updated_at": "2026-02-02T17:54:16Z"
     },
     "48656950622227": {
       "title": "How to Use the Google Search Console App",
       "url": "https://support.optisigns.com/hc/en-us/articles/48656950622227-How-to-Use-the-Google-Search-Console-App",
-      "hash": "e667c7dde3f02440ff02b0749fbee56e223ffe0be2fc58fe72f9b5d346375eb0",
+      "hash": "5c2195799e1983c8651a3933873edf63684f4c559a377ad9c1750669d9e1e054",
       "filename": "content/how-to-use-the-google-search-console-app.md",
       "updated_at": "2026-02-02T17:56:42Z"
     },
     "48626115821459": {
       "title": "How to Use the YouTube Dashboard App",
       "url": "https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App",
-      "hash": "98f5cdf6ce67bbf37bc1b9c9ee3eef15cd3c8102a4443e30087fde97f67c1720",
+      "hash": "08ad5cd4c52f101d338e3987c0d78b070b3751b9a55dd0bfbe0c9da5c407002a",
       "filename": "content/how-to-use-the-youtube-dashboard-app.md",
       "updated_at": "2026-02-02T15:32:55Z"
     },
     "48241081473043": {
       "title": "Operational Schedule Troubleshooting",
       "url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
-      "hash": "71b088e4df180cea7b36a8fe966a587a99fc3946b32f14a34a1ad24096e6374e",
+      "hash": "5f24fdba3669565af7923b53ef7998d3f08193b8e198d09db4e669998e418084",
       "filename": "content/operational-schedule-troubleshooting.md",
       "updated_at": "2026-04-20T21:26:17Z"
     },
@@ -115,14 +115,14 @@
     "45619214182803": {
       "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
       "url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions",
-      "hash": "7f3f9bb2f9048ef96d787e3afb051027a4cd7dad32c741ce80824a2e38238c63",
+      "hash": "7ee058af9927544e2432ce55ef034329a04bd4c0401eaf4c585e3f05cf66db4c",
       "filename": "content/how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md",
       "updated_at": "2025-10-17T16:01:18Z"
     },
     "44890229616403": {
       "title": "Using an Enterprise Network (802.1x) with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns",
-      "hash": "57cfb01adac6844aee2e4751254f856296791983c4df76cc08a82a2e124b0254",
+      "hash": "bb089fe615f12e85857d1808555637b9459c456c0ee9285a0ee9a840e13e0cc8",
       "filename": "content/using-an-enterprise-network-8021x-with-optisigns.md",
       "updated_at": "2026-05-20T18:11:11Z"
     },
@@ -136,7 +136,7 @@
     "42087942047379": {
       "title": "Getting Started with Designer",
       "url": "https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer",
-      "hash": "0940cdbcc9a226470b21c5404bcd3a2d1a001d2542098c303aeef821500ca812",
+      "hash": "9ec3f7d859d867f2382d9870509bd8f53cb6ab48b923341c4ab4e63876a8eb27",
       "filename": "content/getting-started-with-designer.md",
       "updated_at": "2025-10-07T17:18:32Z"
     },
@@ -150,7 +150,7 @@
     "40736654972563": {
       "title": "OptiSigns Pro/ProMax Player Troubleshooting Guide",
       "url": "https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide",
-      "hash": "f0b3f0992e27d86809edd2f57a4c48eea7365b0806977b7ab41a431aa9cf277b",
+      "hash": "cd7a6d0e37edfcfcdf1bc0eb14b8b0ba3c194bcc0273d9a49c3a2cebe19fffca",
       "filename": "content/optisigns-propromax-player-troubleshooting-guide.md",
       "updated_at": "2026-01-13T21:20:16Z"
     },
@@ -171,14 +171,14 @@
     "40147900639891": {
       "title": "OptiStick Troubleshooting Guide",
       "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide",
-      "hash": "b9dc0409489ab0ff0e7c42c4d8dcfb7375ea16d9cc27cdc806849ac94f17a9e2",
+      "hash": "6e74beb3cca5b7f70ad164ff7765e2fbc6e8a91c8e76df65c529228f745bec6e",
       "filename": "content/optistick-troubleshooting-guide.md",
       "updated_at": "2026-06-26T13:52:36Z"
     },
     "39488874989587": {
       "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
       "url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick",
-      "hash": "b849a035022a7419654f1d123fdffa04aff0fe07a2db2ae1c5f528b7c48a6539",
+      "hash": "3658a24222691ee1cad990e0d59ba0bf0f564e192e8f3f8777e8c12749d7e91f",
       "filename": "content/fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md",
       "updated_at": "2025-09-04T15:25:54Z"
     },
@@ -192,21 +192,21 @@
     "39080869746067": {
       "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
       "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
-      "hash": "c6577695e6e202b498ffc3466d8172867fe7af8c6f95565d22d6766495b6d65a",
+      "hash": "fdad5c48859d4a9f6f3e62e559ea23dba7ccdb611ee6966bf1209e4cc3d649d4",
       "filename": "content/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
       "updated_at": "2025-08-28T18:42:06Z"
     },
     "38062664690195": {
       "title": "Tagging in OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns",
-      "hash": "96e05f1bc8993f8b36138efd8269db4da64532e01baf9fee13f697719148333b",
+      "hash": "fa78127e6f6c9927a3c19d4754e9ed209a58e2bcd8b0aa7410c30fd3b3adbea7",
       "filename": "content/tagging-in-optisigns.md",
       "updated_at": "2025-09-09T19:34:07Z"
     },
     "37966066335891": {
       "title": "Getting Started with an OptiSigns Free Trial",
       "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
-      "hash": "0af722d81df02f044ec036bd67c8a7e31a1a163388879455ab30db891b58b161",
+      "hash": "9c58048dce4325b049563c7e322dea829aed871e88c959aede61f3ef6cfe465a",
       "filename": "content/getting-started-with-an-optisigns-free-trial.md",
       "updated_at": "2025-09-04T18:44:24Z"
     },
@@ -227,28 +227,28 @@
     "35749502945555": {
       "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments",
       "url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
-      "hash": "0c26e428f0de7943c405eae0f9666cc8efd21deb9e8aa4ad8a25322247bb19e7",
+      "hash": "559cb37bc01a9a16c6147a1a226ced7a0f0e28cbb508dfb5560836008d022860",
       "filename": "content/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md",
       "updated_at": "2025-08-29T16:58:30Z"
     },
     "35184720136595": {
       "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
       "url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens",
-      "hash": "1e5c06db4149340b69a73c6227b8e632538f39aff7df054fb189e18fb38af5bc",
+      "hash": "dfdd11f5bd06cfd1c6342e88aac888b83043dcf2e9aca659efe65441983970df",
       "filename": "content/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md",
       "updated_at": "2025-09-04T16:54:34Z"
     },
     "34379983350163": {
       "title": "Accepted Payment Methods",
       "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods",
-      "hash": "4b6fdaeac433d261bdce65cb9a6906ce22736c82f291178142ca1bd516510044",
+      "hash": "63a3acadda70cc0598580037ac402cc79b3b56aab139383dcda6d8498221d2df",
       "filename": "content/accepted-payment-methods.md",
       "updated_at": "2025-09-04T15:39:32Z"
     },
     "33940834613139": {
       "title": "What Do I Get With an OptiSigns Free Plan?",
       "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "hash": "b007b001708d5c51707d4ebc824ca279e25dccabdb1b753cbc16bc93dab90ebf",
+      "hash": "7c275201460a28dc0d9c4d90e7fd1deab04442f82493a425a5ccc00a800a57f2",
       "filename": "content/what-do-i-get-with-an-optisigns-free-plan.md",
       "updated_at": "2026-03-27T20:38:29Z"
     },
@@ -262,14 +262,14 @@
     "32860569148819": {
       "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-      "hash": "0630f9ce37e006a455a3dff4df7b29164f9e62e0e4c9dc78ffe281f253cc4208",
+      "hash": "e6b1dee7510b131f8f84ba4f6b85fd15a40a24788396940c960e9d5e60a33f13",
       "filename": "content/how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
       "updated_at": "2026-03-17T22:32:17Z"
     },
     "32839794222099": {
       "title": "Display Salesforce Dashboards with MFA using Web Scripting",
       "url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-      "hash": "635a3ce95b005e0d935e848c126e6619ecbc32c3073ca80032eb216e271aabf8",
+      "hash": "1357823d4628f5cbe30653c17b1861c0fd6df8a34ccb0685d6ba13deb128c1fd",
       "filename": "content/display-salesforce-dashboards-with-mfa-using-web-scripting.md",
       "updated_at": "2025-09-02T20:45:08Z"
     },
@@ -283,7 +283,7 @@
     "31860170199955": {
       "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
       "url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
-      "hash": "c3fcfb84b271c3f6a12738eb80b62a0da57b7f97f1a3aba13b96e4ebef3d43be",
+      "hash": "44891d7ef7d482584e51ae4f4c63d42959a9ce1ab55998d5b8be74d7c489033d",
       "filename": "content/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md",
       "updated_at": "2025-09-04T20:31:25Z"
     },
@@ -297,21 +297,21 @@
     "31449657955347": {
       "title": "Getting Started with Touch Screen Kiosks",
       "url": "https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks",
-      "hash": "b8eadf1e229842651a67c39f6c0713713468257ca99d8097c43258940ddd14f9",
+      "hash": "3dcfc14627dff1facbae8d9280045aa596bb92cb54c04626170526d247b7de0a",
       "filename": "content/getting-started-with-touch-screen-kiosks.md",
       "updated_at": "2025-10-29T18:57:43Z"
     },
     "31113088917907": {
       "title": "How to use Toast API data with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns",
-      "hash": "c4c732366478ce38e79249372de7e34422a8395985a4c6c1a0641d11b253b795",
+      "hash": "3a82c411928013757400ee7babc95806b4c4e22e2621850fef5f4c50c93c1e1d",
       "filename": "content/how-to-use-toast-api-data-with-optisigns.md",
       "updated_at": "2025-09-02T20:24:12Z"
     },
     "30310366838803": {
       "title": "Enabling Lock Down Mode on Touch Screen Devices",
       "url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices",
-      "hash": "c396302c5e02092e49a616c2f1a1b4587f4ead7229b2880ac5c003588323f319",
+      "hash": "7cefd972e4ecc5c2a556cfcd77790c0afb719f127a1ce48deaf2cd1f4207ef9e",
       "filename": "content/enabling-lock-down-mode-on-touch-screen-devices.md",
       "updated_at": "2026-04-21T19:22:05Z"
     },
@@ -325,14 +325,14 @@
     "29792081890323": {
       "title": "Guide for Creating Content with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns",
-      "hash": "653ed4f9cdfdc8e1d4b60345a2975ac94e0c044d6f0842a8fecf8fdfc5d3fa54",
+      "hash": "198d34290c5e09dea8032dcac30bb6ba823ba86f9042df4e8d62119a013d0483",
       "filename": "content/guide-for-creating-content-with-optisigns.md",
       "updated_at": "2026-05-21T17:52:16Z"
     },
     "29465595849235": {
       "title": "List of Supported Cities for Weather Wall City Themes",
       "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "hash": "d8d002060090b939a3cbb3c73d7288d1fa096612d604173c361e05c277982ab0",
+      "hash": "6358c1d610264a1ca0de8159451ffcafe42037f2d3747656efff4d632422efc4",
       "filename": "content/list-of-supported-cities-for-weather-wall-city-themes.md",
       "updated_at": "2026-04-08T13:41:37Z"
     },
@@ -353,10 +353,10 @@
     "53497007807251": {
       "title": "Device Management and Mass Provisioning",
       "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
-      "hash": "5bc411e4c8dd37c02ec9878383b7c2463b3fa0f1c55f79b1dad9f392046038f8",
+      "hash": "fe0c3adf52b988244456642ccaa20f81963bbd0bdd0295df4e6398659ebdf724",
       "filename": "content/device-management-and-mass-provisioning.md",
       "updated_at": "2026-07-16T16:39:52Z"
     }
   },
-  "last_run": "2026-07-18T09:41:09.070086"
+  "last_run": "2026-07-19T09:58:51.374977"
 }
