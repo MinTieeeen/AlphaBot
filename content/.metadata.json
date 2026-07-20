@@ -129,7 +129,7 @@
     "43657735780627": {
       "title": "User Management Example - Chain Restaurant or Retail Store with Multiple Locations",
       "url": "https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations",
-      "hash": "c5a537099964a2b0da283de11911a54d74c9ad0ff177c93bd0675c4cc2e3345a",
+      "hash": "b6c42daa57fd1390fdf686ed5ce6173e6235555533a4f1ef4dccd97cb0f5602f",
       "filename": "content/user-management-example---chain-restaurant-or-retail-store-with-multiple-locations.md",
       "updated_at": "2025-08-28T19:28:55Z"
     },
@@ -358,5 +358,5 @@
       "updated_at": "2026-07-16T16:39:52Z"
     }
   },
-  "last_run": "2026-07-19T09:58:51.374977"
+  "last_run": "2026-07-20T11:08:49.501087"
 }
