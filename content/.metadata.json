@@ -10,7 +10,7 @@
     "53216900345875": {
       "title": "What Access Does OptiSigns Have to My Account and Devices?",
       "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
-      "hash": "90eecca2c0319bc8ccfa5de1c6a07ec57bacc8a4da5d0043d12a30ee1d415737",
+      "hash": "485e2f10e80e6c168f4e4c234898fc7789344d9499bd632aa9d20f1d9d75503e",
       "filename": "content/what-access-does-optisigns-have-to-my-account-and-devices.md",
       "updated_at": "2026-07-06T15:29:04Z"
     },
@@ -318,7 +318,7 @@
     "30304278652563": {
       "title": "How to Use the Mobile App for Remote Control",
       "url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control",
-      "hash": "7ca9bb7396b2bfcf2224fa8eba3109b4b9d3d254d10dc780aa4cfe8dd2ab4916",
+      "hash": "3b27406e110ce617177f505e13be1dbb6958b01c0acba88dd506e8d5c879bb5e",
       "filename": "content/how-to-use-the-mobile-app-for-remote-control.md",
       "updated_at": "2025-09-04T20:14:54Z"
     },
@@ -358,5 +358,5 @@
       "updated_at": "2026-07-16T16:39:52Z"
     }
   },
-  "last_run": "2026-07-23T10:31:25.218047"
+  "last_run": "2026-07-24T10:26:31.281972"
 }
