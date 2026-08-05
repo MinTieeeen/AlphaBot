@@ -220,7 +220,7 @@
     "36501302096915": {
       "title": "How to access the Troubleshooting page of the OptiSigns Player",
       "url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
-      "hash": "2538b47bd9eed8cbe29f700862643cea91e50b0e7538a89d7a5a0dc170df3e3a",
+      "hash": "d3baa45e02d650d3e5b50bacf7bae1dbb02dacd6187cd68884bfa42d4c0a63dd",
       "filename": "content/how-to-access-the-troubleshooting-page-of-the-optisigns-player.md",
       "updated_at": "2025-09-02T20:08:24Z"
     },
@@ -234,7 +234,7 @@
     "35184720136595": {
       "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
       "url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens",
-      "hash": "94d7c89da2559656c5fe0173a2f9095679b82a9e53db633bfefe7a3246e5cf15",
+      "hash": "f39288c6083ce6006727effc0cd33defb342c7085f3b91441d5843ecd2d3b9bc",
       "filename": "content/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md",
       "updated_at": "2025-09-04T16:54:34Z"
     },
@@ -255,7 +255,7 @@
     "33382537925267": {
       "title": "Making a Video Wall with OptiSigns (Video Wall App)",
       "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "hash": "1019fdaebfa3d8b49b2c00cd4d1f9907d646fcc9f7563d04acf10f1cc6adb738",
+      "hash": "defd398926494c16846e8bc482fb36464b4bb8e2087b0a74033d08e94827c8c7",
       "filename": "content/making-a-video-wall-with-optisigns-video-wall-app.md",
       "updated_at": "2026-07-17T16:59:32Z"
     },
@@ -304,7 +304,7 @@
     "31113088917907": {
       "title": "How to use Toast API data with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns",
-      "hash": "3ccfe0073a7a67a1f6c36fcf0b95d161eec704bfaf37447da8b297e6929ee411",
+      "hash": "59e335fbabebfaa026452740117031a545bb0a1b70857ded1fe4628c5b43ac0e",
       "filename": "content/how-to-use-toast-api-data-with-optisigns.md",
       "updated_at": "2025-09-02T20:24:12Z"
     },
@@ -332,7 +332,7 @@
     "29465595849235": {
       "title": "List of Supported Cities for Weather Wall City Themes",
       "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "hash": "1dba8fb1a8fad8edd12cde024bc929e73780fba1504416a3f8516bc3632240ff",
+      "hash": "ece57aa024be6ce45e2d6c01459190c0246ac5c135cb29b1e8098051d1e88669",
       "filename": "content/list-of-supported-cities-for-weather-wall-city-themes.md",
       "updated_at": "2026-04-08T13:41:37Z"
     },
@@ -356,7 +356,14 @@
       "hash": "185e9f41eb66729daaba9213dd55a59bbc83a8772244ea3f36622211a5f02fc8",
       "filename": "content/device-management-and-mass-provisioning.md",
       "updated_at": "2026-07-16T16:39:52Z"
+    },
+    "53952018650515": {
+      "title": "How to Display Databricks Dashboards on OptiSigns",
+      "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
+      "hash": "cee8a3c753349ffdea7fa1de6e22d26c5ff23aed0ded2f4ba46f00fc0404392f",
+      "filename": "content/how-to-display-databricks-dashboards-on-optisigns.md",
+      "updated_at": "2026-08-04T17:57:34Z"
     }
   },
-  "last_run": "2026-08-04T10:46:52.013302"
+  "last_run": "2026-08-05T10:43:43.232836"
 }
