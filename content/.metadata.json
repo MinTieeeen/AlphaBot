@@ -31,7 +31,7 @@
     "52523606879251": {
       "title": "OptiSigns Digital Signage App for Zoom \u2014 Adding, Using, and Removing the App",
       "url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
-      "hash": "131e44aee2b4d89560014adce0be9c42a74fb28b7e863118795ef401d8f7d6fe",
+      "hash": "d6c588e0d14f719776d367f870180e2758844059e915a737554a1da2c2e89e63",
       "filename": "content/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md",
       "updated_at": "2026-06-11T22:24:43Z"
     },
@@ -80,7 +80,7 @@
     "48751096814995": {
       "title": "How to Use the Google Ads Dashboard App",
       "url": "https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App",
-      "hash": "22763c9db06fde319e2ca3bbfa0bd534c0a867deb62471a57a9f89c527d55148",
+      "hash": "5cb5ee5d2eb47d110d0f4e22fe9c88c95a4dd5e9b76981693f7d1da4bae652aa",
       "filename": "content/how-to-use-the-google-ads-dashboard-app.md",
       "updated_at": "2026-02-02T17:54:16Z"
     },
@@ -129,7 +129,7 @@
     "43657735780627": {
       "title": "User Management Example - Chain Restaurant or Retail Store with Multiple Locations",
       "url": "https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations",
-      "hash": "0eed92fc45ab60d55f2c4e7da662526b87e52fc2bcbb5a58fb18b2e8d40afba0",
+      "hash": "f0b129b7fee482d9dc90a51a79d7cfb11c4cccac95f7fdfdb104935c71c3a824",
       "filename": "content/user-management-example---chain-restaurant-or-retail-store-with-multiple-locations.md",
       "updated_at": "2025-08-28T19:28:55Z"
     },
@@ -372,5 +372,5 @@
       "updated_at": "2026-08-05T18:22:19Z"
     }
   },
-  "last_run": "2026-08-14T09:13:54.882874"
+  "last_run": "2026-08-15T08:37:20.208058"
 }
