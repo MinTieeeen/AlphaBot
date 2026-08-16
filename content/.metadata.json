@@ -17,7 +17,7 @@
     "53095698149011": {
       "title": "Using the Japan Earthquake App",
       "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-      "hash": "f1aed5acd3d73246dbe6991dd17c2e95a0ec5def838f76d5da2e4aa3cdcf891e",
+      "hash": "192d9761fc88c400ab25bc7fba49c3e3bc486a41602059681f242552487234be",
       "filename": "content/using-the-japan-earthquake-app.md",
       "updated_at": "2026-08-12T14:38:37Z"
     },
@@ -241,7 +241,7 @@
     "34379983350163": {
       "title": "Accepted Payment Methods",
       "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods",
-      "hash": "05111780d25a74335c67965d34a9507eb8e85f44cdd0022122fe4bc4464eefc5",
+      "hash": "1b6a6d0297efd03951bbe5101354de9235700890a5cdd2ef069ce11b98c24c3e",
       "filename": "content/accepted-payment-methods.md",
       "updated_at": "2025-09-04T15:39:32Z"
     },
@@ -332,7 +332,7 @@
     "29465595849235": {
       "title": "List of Supported Cities for Weather Wall City Themes",
       "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "hash": "ea59097da93213a1e52e08c5007707a4fefe988b8334084bb1aa2ef2bde2eb4d",
+      "hash": "450b3aa8b54980586b3093b1d669b7630bf6422ad0d9a150eceb5244a671e919",
       "filename": "content/list-of-supported-cities-for-weather-wall-city-themes.md",
       "updated_at": "2026-04-08T13:41:37Z"
     },
@@ -372,5 +372,5 @@
       "updated_at": "2026-08-05T18:22:19Z"
     }
   },
-  "last_run": "2026-08-15T08:37:20.208058"
+  "last_run": "2026-08-16T08:37:52.103331"
 }
