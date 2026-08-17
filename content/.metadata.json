@@ -3,14 +3,14 @@
     "53293393593491": {
       "title": "Refer & Earn: OptiSigns Referral Program",
       "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
-      "hash": "1a8b428a65b9f0a84ca6bec529197ccb4f9354f7686ace8ed6be42628a8c555d",
+      "hash": "954043d074afe9f40fa18ecc1f6565a61e59c695fad98447b4b5da5caa90edac",
       "filename": "content/refer-earn-optisigns-referral-program.md",
       "updated_at": "2026-07-08T17:09:50Z"
     },
     "53216900345875": {
       "title": "What Access Does OptiSigns Have to My Account and Devices?",
       "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
-      "hash": "9de3dc968c936ee430ef716235b5a949c5db966cab08577be6383679eee0ddf8",
+      "hash": "ebbc28553ea81feac5d57bf041686ca92f841a3d747d270b3b6d5a49bdd67458",
       "filename": "content/what-access-does-optisigns-have-to-my-account-and-devices.md",
       "updated_at": "2026-07-06T15:29:04Z"
     },
@@ -45,7 +45,7 @@
     "52350277262483": {
       "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "d3c766892d9a15c0ee5145bada4d138d6179b8a94f834bf6bc3183dea400b31f",
+      "hash": "59bb8c303877e09c384a45f0a8fd689541959564dbf3f253bab9564780946785",
       "filename": "content/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-06-24T18:39:16Z"
     },
@@ -59,7 +59,7 @@
     "52069065128723": {
       "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "cf213923707d1fe2fa7915fdc8073b2454c10e9852af4c7997cb494831681c60",
+      "hash": "47b0b88318cdd8caa68162a44036bf99e0db1f296636c52544940f7c4757a8f7",
       "filename": "content/connect-zoom-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-07-17T22:17:54Z"
     },
@@ -80,7 +80,7 @@
     "48751096814995": {
       "title": "How to Use the Google Ads Dashboard App",
       "url": "https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App",
-      "hash": "5cb5ee5d2eb47d110d0f4e22fe9c88c95a4dd5e9b76981693f7d1da4bae652aa",
+      "hash": "22763c9db06fde319e2ca3bbfa0bd534c0a867deb62471a57a9f89c527d55148",
       "filename": "content/how-to-use-the-google-ads-dashboard-app.md",
       "updated_at": "2026-02-02T17:54:16Z"
     },
@@ -122,7 +122,7 @@
     "44890229616403": {
       "title": "Using an Enterprise Network (802.1x) with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns",
-      "hash": "f9cce333c5e72466d669f84124efa27f3e3f6abb2c5109d321489b4bb0a76007",
+      "hash": "bcb62d801003642db0ab7b44e8cd350e50e0f6d48881cdc8fd06e1f9f486a20a",
       "filename": "content/using-an-enterprise-network-8021x-with-optisigns.md",
       "updated_at": "2026-05-20T18:11:11Z"
     },
@@ -220,7 +220,7 @@
     "36501302096915": {
       "title": "How to access the Troubleshooting page of the OptiSigns Player",
       "url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
-      "hash": "f04414dee0b1dbc1518d959b58778d84194adda77b07dfdbde29aa58fff17e73",
+      "hash": "bc0873589ab5a6c70c013aab57784c6f786ff93be7fcbaf5b776750f454f1cfb",
       "filename": "content/how-to-access-the-troubleshooting-page-of-the-optisigns-player.md",
       "updated_at": "2025-09-02T20:08:24Z"
     },
@@ -262,7 +262,7 @@
     "32860569148819": {
       "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-      "hash": "567bd3564332974b59e10cf65481b0c414c5bce853e34b20b7508a16788fb331",
+      "hash": "b4a6afb661896f3529fab54141bc0a8cd23f041c84046605883ec1a631e198cb",
       "filename": "content/how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
       "updated_at": "2026-03-17T22:32:17Z"
     },
@@ -276,7 +276,7 @@
     "31960461758611": {
       "title": "How to Order a Preconfigured OptiSigns Android Player Device",
       "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device",
-      "hash": "434a980e50896b12138465e988b71ec9c978da2a1a9abbb8699e52705a718c75",
+      "hash": "da59d26f04c929777c936126157b3ec23c9738fbf26e43685913c4a75f4bd268",
       "filename": "content/how-to-order-a-preconfigured-optisigns-android-player-device.md",
       "updated_at": "2026-06-11T17:48:29Z"
     },
@@ -372,5 +372,5 @@
       "updated_at": "2026-08-05T18:22:19Z"
     }
   },
-  "last_run": "2026-08-16T08:37:52.103331"
+  "last_run": "2026-08-17T08:53:03.031694"
 }
