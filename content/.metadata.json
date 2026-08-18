@@ -66,7 +66,7 @@
     "51343184586643": {
       "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "c48047023f2979a37856d6f44cbc90231ec3c8da61bc814a96eb823814dc2ef4",
+      "hash": "89bb4b847b442f334c8c3b3ba855a1c5157d11fabb2f4ecc63c2f527b0f0e4a2",
       "filename": "content/connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-07-01T16:55:46Z"
     },
@@ -80,7 +80,7 @@
     "48751096814995": {
       "title": "How to Use the Google Ads Dashboard App",
       "url": "https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App",
-      "hash": "22763c9db06fde319e2ca3bbfa0bd534c0a867deb62471a57a9f89c527d55148",
+      "hash": "5cb5ee5d2eb47d110d0f4e22fe9c88c95a4dd5e9b76981693f7d1da4bae652aa",
       "filename": "content/how-to-use-the-google-ads-dashboard-app.md",
       "updated_at": "2026-02-02T17:54:16Z"
     },
@@ -150,7 +150,7 @@
     "40736654972563": {
       "title": "OptiSigns Pro/ProMax Player Troubleshooting Guide",
       "url": "https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide",
-      "hash": "25ba56fc9aea9966209071053dc47ef7d4c82f64e556b0f8860a03d9aa6c3b2b",
+      "hash": "8eab5e5e6990d7ef218dae32253128c6dfa073c5e1d32c65d3cb4ccc539ac7ae",
       "filename": "content/optisigns-propromax-player-troubleshooting-guide.md",
       "updated_at": "2026-01-13T21:20:16Z"
     },
@@ -192,14 +192,14 @@
     "39080869746067": {
       "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
       "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
-      "hash": "09750698fad4014d3ace0dc292abde336fe4c70d1ce0bb2c373e2a150a4fc82b",
+      "hash": "a4cc4e4aff30a1f7f03c28d383d2d2b40be4c23c6339b615f60f0a1460ce3e8c",
       "filename": "content/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
       "updated_at": "2026-07-28T20:42:44Z"
     },
     "38062664690195": {
       "title": "Tagging in OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns",
-      "hash": "742c32350042b7e6f2afbc21432589a58c0c6af4f3c76972dd8677effa6fd4bd",
+      "hash": "1a30840515c119e9356640021ddc183b0b30dc3e566227054878b70b523ad140",
       "filename": "content/tagging-in-optisigns.md",
       "updated_at": "2025-09-09T19:34:07Z"
     },
@@ -255,14 +255,14 @@
     "33382537925267": {
       "title": "Making a Video Wall with OptiSigns (Video Wall App)",
       "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "hash": "bf9159454e155b44161d8ab6c3dc92bb96f1ad1bd0311fd7f4e8416628d555a7",
+      "hash": "529f76f629bca9ec1c8e20899e00f6e524fc7940be469134e655b037eb442ae0",
       "filename": "content/making-a-video-wall-with-optisigns-video-wall-app.md",
       "updated_at": "2026-07-17T16:59:32Z"
     },
     "32860569148819": {
       "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
-      "hash": "b4a6afb661896f3529fab54141bc0a8cd23f041c84046605883ec1a631e198cb",
+      "hash": "4844270f803c4b80cde27e264537fffa0001971c0357029e364547689f80b3d0",
       "filename": "content/how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
       "updated_at": "2026-03-17T22:32:17Z"
     },
@@ -283,7 +283,7 @@
     "31860170199955": {
       "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
       "url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync",
-      "hash": "89730312fe88dd8823208d16b8011a18eb13ee14e48868458c9e6b67f58c96c5",
+      "hash": "8fdd49cb9ac8b1fbf87b144b60a24656eaf347b9b7a9648b16e4bc5e3affc416",
       "filename": "content/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md",
       "updated_at": "2025-09-04T20:31:25Z"
     },
@@ -372,5 +372,5 @@
       "updated_at": "2026-08-05T18:22:19Z"
     }
   },
-  "last_run": "2026-08-17T08:53:03.031694"
+  "last_run": "2026-08-18T08:46:02.595504"
 }
