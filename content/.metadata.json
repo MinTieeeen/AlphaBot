@@ -171,7 +171,7 @@
     "40147900639891": {
       "title": "OptiStick Troubleshooting Guide",
       "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide",
-      "hash": "d96d1853f68361031f38aae28b90dedcaaf2a5f14f6657fcce17ea934e7368d4",
+      "hash": "4285da31baae59296693934c49fda11ab9c56e9634622f97b0852695688c2c2b",
       "filename": "content/optistick-troubleshooting-guide.md",
       "updated_at": "2026-06-26T13:52:36Z"
     },
@@ -206,7 +206,7 @@
     "37966066335891": {
       "title": "Getting Started with an OptiSigns Free Trial",
       "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
-      "hash": "7c3165603bcbbcd8f023b833fc2b76ba9e300bb1a29f4ae478176c7c31793b67",
+      "hash": "77ca16ff7980f6d5c52b80afcb5826c10fa0c0a24b80fd3a44d09cb88e3dc35b",
       "filename": "content/getting-started-with-an-optisigns-free-trial.md",
       "updated_at": "2025-09-04T18:44:24Z"
     },
@@ -304,14 +304,14 @@
     "31113088917907": {
       "title": "How to use Toast API data with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns",
-      "hash": "3292b0fae450ae66a32fc51ea094cacec93c6f8f56fd200d0105828269bf3adc",
+      "hash": "1f20fc033c1c221c876b32f837ba7cc6fad01e79bf31a7dd4e195f6f4a1231b9",
       "filename": "content/how-to-use-toast-api-data-with-optisigns.md",
       "updated_at": "2025-09-02T20:24:12Z"
     },
     "30310366838803": {
       "title": "Enabling Lock Down Mode on Touch Screen Devices",
       "url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices",
-      "hash": "1737110663046b21f177a7bdb6eefc9bd6a70924318dcd31dad520b4aafebdf8",
+      "hash": "f8cc364ddfceaeff108897485408a88d2365bd842b989f6aebe659a0741e535c",
       "filename": "content/enabling-lock-down-mode-on-touch-screen-devices.md",
       "updated_at": "2026-04-21T19:22:05Z"
     },
@@ -372,5 +372,5 @@
       "updated_at": "2026-08-05T18:22:19Z"
     }
   },
-  "last_run": "2026-08-24T08:56:58.541462"
+  "last_run": "2026-08-25T08:51:50.700560"
 }
