@@ -3,7 +3,7 @@
     "53293393593491": {
       "title": "Refer & Earn: OptiSigns Referral Program",
       "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
-      "hash": "3898fc75164b81a97194bf82b9ebcee87105777834576fbab0ad80a1f7a471b6",
+      "hash": "c4a36084871ffc1137f288cc8c3e3c42ca0e879becdf5adcd69c38e3b03eb3ea",
       "filename": "content/refer-earn-optisigns-referral-program.md",
       "updated_at": "2026-07-08T17:09:50Z"
     },
@@ -17,14 +17,14 @@
     "53095698149011": {
       "title": "Using the Japan Earthquake App",
       "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-      "hash": "bc38e6f3df4eb95eb90cb2f045b2aae7e206f46e0a5d077a4045d2db7254fc93",
+      "hash": "c4e820743f7a3f6422a301112b47402ad00231c594ea182e9366d3c8b6e2078b",
       "filename": "content/using-the-japan-earthquake-app.md",
       "updated_at": "2026-08-12T14:38:37Z"
     },
     "53028011485715": {
       "title": "How to Display a Snowflake Dashboard with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
-      "hash": "bb56a0d2d7382c2eb02b8c1e56a57e2b71c9c79e51ade4c337c4882701ee69f5",
+      "hash": "1e6fe60d772a0edf273c9c332b1697d53fc373981c97c9426bd02ee2a3a5c3de",
       "filename": "content/how-to-display-a-snowflake-dashboard-with-optisigns.md",
       "updated_at": "2026-07-01T21:59:22Z"
     },
@@ -52,7 +52,7 @@
     "52113036672403": {
       "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-      "hash": "a61aaecd6d41cde19dc5de8b9d8731948324bddabf1686b6db58c0362807da46",
+      "hash": "41271c85eb8ec8163957675907ef844c6c29f9c7e88f0e827df09ce887323333",
       "filename": "content/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
       "updated_at": "2026-07-08T14:58:11Z"
     },
@@ -73,7 +73,7 @@
     "49039295567891": {
       "title": "ChromeOS PWA Instructions",
       "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
-      "hash": "fa5d6b9e5b2335d9327b7efd114ceec5460692a506c8d7772f853e4197347299",
+      "hash": "db0f0f7ccef41291928d18f48fe9fc30f6b7d01abdf11c20d672affabd843fa2",
       "filename": "content/chromeos-pwa-instructions.md",
       "updated_at": "2026-05-05T15:48:27Z"
     },
@@ -115,7 +115,7 @@
     "45619214182803": {
       "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
       "url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions",
-      "hash": "b2d15fe29d52cb531fc2977e949f62d9849f6ee75b3d05130855d07e6c4abc59",
+      "hash": "b74ec124b1ec85b4fb1fc8dace3b634bb1141e28a1767047436024b4b9932086",
       "filename": "content/how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md",
       "updated_at": "2025-10-17T16:01:18Z"
     },
@@ -129,7 +129,7 @@
     "43657735780627": {
       "title": "User Management Example - Chain Restaurant or Retail Store with Multiple Locations",
       "url": "https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations",
-      "hash": "25c98c5b1525d99cf939f4f227837f8f703162e6bcd8a045c87ac7ebb31c4731",
+      "hash": "325b83c79073747a7ff39b5ffdb8c11c616e97e1c092ab3a4f34273cdffd51e4",
       "filename": "content/user-management-example---chain-restaurant-or-retail-store-with-multiple-locations.md",
       "updated_at": "2025-08-28T19:28:55Z"
     },
@@ -143,7 +143,7 @@
     "41432385864595": {
       "title": "Designer 2.0 New Features",
       "url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features",
-      "hash": "e158a4039c40def6a8d53c3e122cfd6d0a8aa7dc2467b057d8d27d5983f2ba9d",
+      "hash": "48fc6e786165e13206b5aaa07058d3cb53b18502ff7b7c4124d95733d81c5148",
       "filename": "content/designer-20-new-features.md",
       "updated_at": "2026-05-12T14:17:09Z"
     },
@@ -164,7 +164,7 @@
     "40212027797523": {
       "title": "Disk Encryption",
       "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption",
-      "hash": "09d40f952350f715a007e2a69e53033764e8ad746318125652c6bd8066664588",
+      "hash": "fc4a006bdcdefa0206af3788984ba3e501a0d8fda3595216fd28675ffc4f19e0",
       "filename": "content/disk-encryption.md",
       "updated_at": "2025-09-04T16:19:23Z"
     },
@@ -199,7 +199,7 @@
     "38062664690195": {
       "title": "Tagging in OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns",
-      "hash": "3ce58d7583d81a19ca6f6606f58a420f564d9da6b91df1e0ce6148140442372d",
+      "hash": "eef6644b986f6511d6386d83635643953e35a6e621e42131b772cc674c9cb3d9",
       "filename": "content/tagging-in-optisigns.md",
       "updated_at": "2025-09-09T19:34:07Z"
     },
@@ -227,7 +227,7 @@
     "35749502945555": {
       "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments",
       "url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
-      "hash": "dabf4de111852ec86ec2a283361bf8950d5d495f0c2a0be3d334981d3ebb209d",
+      "hash": "0880df59a028ae5481bb515755875e6925ece66e32ac4d13ec05ec92296f6085",
       "filename": "content/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md",
       "updated_at": "2025-08-29T16:58:30Z"
     },
@@ -269,16 +269,16 @@
     "32839794222099": {
       "title": "Display Salesforce Dashboards with MFA using Web Scripting",
       "url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-      "hash": "38c294f6fa026d9c993690e93145a945553240133ea1c61017a7bd588d075c8d",
+      "hash": "f77a20c5e4643d15a138b2d916f4ba007c327800ab09134f160e46d29cd4da6b",
       "filename": "content/display-salesforce-dashboards-with-mfa-using-web-scripting.md",
       "updated_at": "2025-09-02T20:45:08Z"
     },
     "31960461758611": {
-      "title": "How to Order a Preconfigured OptiSigns Android Player Device",
-      "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device",
-      "hash": "65b103a946d7709232fa34011875142786b49ff68daf390091bf918211c5bba5",
-      "filename": "content/how-to-order-a-preconfigured-optisigns-android-player-device.md",
-      "updated_at": "2026-06-11T17:48:29Z"
+      "title": "How to Order a Preconfigured OptiSigns Android Stick",
+      "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick",
+      "hash": "0c0babe403411d2fe99bf725489907b631d0469573b705b920bfa7be90868fa5",
+      "filename": "content/how-to-order-a-preconfigured-optisigns-android-stick.md",
+      "updated_at": "2026-08-25T21:52:40Z"
     },
     "31860170199955": {
       "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
@@ -290,28 +290,28 @@
     "31695220475283": {
       "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
       "url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
-      "hash": "5ab436874b0a9bdd366fe81c74e709e4bdc90fe12d1374e0c6c52439a10077f9",
+      "hash": "d19514ff6b474970d54b563072677773f01427a90a18087cac25af507b32ca81",
       "filename": "content/configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md",
       "updated_at": "2025-08-29T17:04:07Z"
     },
     "31449657955347": {
       "title": "Getting Started with Touch Screen Kiosks",
       "url": "https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks",
-      "hash": "3506dd7f0e99a559276b78901a3ce67d658c4b510b870aae11525c5b507e5767",
+      "hash": "9834574d3cb82489cee893fb793d0d21f8357c1ed6817d8b1ae9cafee3cfeee6",
       "filename": "content/getting-started-with-touch-screen-kiosks.md",
       "updated_at": "2025-10-29T18:57:43Z"
     },
     "31113088917907": {
       "title": "How to use Toast API data with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns",
-      "hash": "1f20fc033c1c221c876b32f837ba7cc6fad01e79bf31a7dd4e195f6f4a1231b9",
+      "hash": "3292b0fae450ae66a32fc51ea094cacec93c6f8f56fd200d0105828269bf3adc",
       "filename": "content/how-to-use-toast-api-data-with-optisigns.md",
       "updated_at": "2025-09-02T20:24:12Z"
     },
     "30310366838803": {
       "title": "Enabling Lock Down Mode on Touch Screen Devices",
       "url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices",
-      "hash": "f8cc364ddfceaeff108897485408a88d2365bd842b989f6aebe659a0741e535c",
+      "hash": "1737110663046b21f177a7bdb6eefc9bd6a70924318dcd31dad520b4aafebdf8",
       "filename": "content/enabling-lock-down-mode-on-touch-screen-devices.md",
       "updated_at": "2026-04-21T19:22:05Z"
     },
@@ -325,14 +325,14 @@
     "29792081890323": {
       "title": "Guide for Creating Content with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns",
-      "hash": "c670437bdc1b619f0de8a5bcd57f2dc176e4e4d21a7c70f50855c58a81a5329a",
+      "hash": "dd5c1d6126926578dd1656ff327576e7d2c820ab76edf155d066c2bae2af1c03",
       "filename": "content/guide-for-creating-content-with-optisigns.md",
       "updated_at": "2026-05-21T17:52:16Z"
     },
     "29465595849235": {
       "title": "List of Supported Cities for Weather Wall City Themes",
       "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
-      "hash": "65fbc98ab345eba15ba16f9aafb727b04e1c11bc1c48574e4473e12d4d0e1f02",
+      "hash": "111f63813775b9b7b292730468a11f566d749aa4e8f0b27c5becb02b2ad124d0",
       "filename": "content/list-of-supported-cities-for-weather-wall-city-themes.md",
       "updated_at": "2026-04-08T13:41:37Z"
     },
@@ -372,5 +372,5 @@
       "updated_at": "2026-08-05T18:22:19Z"
     }
   },
-  "last_run": "2026-08-25T08:51:50.700560"
+  "last_run": "2026-08-26T08:53:05.039884"
 }
