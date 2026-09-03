@@ -8,13 +8,13 @@ This guide will walk you through the steps to effectively use the app's remote c
 
 **Note:**  
 ---  
-The Remote Control feature on the OptiSigns Admin Mobile app is only available for the [OptiSigns Android Stick Player](https://shop.optisigns.com/products/optisigns-android-stick-player-2) Gen 2 and Gen 3.  
+The Remote Control feature on the OptiSigns Admin Mobile app is only available on OptiSigns players.  
   
 #### 
 
 #### ![20230816-191704.png](/hc/article_attachments/30943323519123)
 
-To learn more about our Mobile Admin App, please visit [our guide. ](/hc/en-us/articles/30003143806099)
+To learn more about our Mobile Admin App, please visit [our guide.](/hc/en-us/articles/30003143806099)
 
 ## **Step 1: Download and Log in to the App**
 
@@ -52,10 +52,10 @@ We recommend using this method as it is the fastest and easiest way to connect a
 
 ### 2.2 Connect in the Remote Control Section (Optional)
 
-  1. Navigate to the **'Remote Control'** option in the Menu Bar on the top left. 
+  1. Navigate to the **'Remote Control'** option in the Menu Bar on the top left.
      * You will see a list of available devices.
   2. **Select the device** you want to control.
-  3. Follow the on-screen instructions to **pair** **your** **smartphone** with the OptiSigns device. 
+  3. Follow the on-screen instructions to **pair** **your** **smartphone** with the OptiSigns device.
      * If the device does not appear, ensure it is powered on and within range.
 
 
