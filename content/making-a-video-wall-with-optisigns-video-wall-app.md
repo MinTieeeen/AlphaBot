@@ -34,7 +34,7 @@ To set up a video wall for use in the Video Wall app, you’ll need:
   * An [OptiSigns subscription](https://www.optisigns.com/pricing) \- Standard Plan or Higher
   * An [**OptiSigns Pro Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player) or [**ProMax Player**](https://www.optisigns.com/product/hardware/promax-digital-signage-player)
   * A purchase of an OptiSigns Video Wall add-on ($25/monthly/device)
-  * Up to four screens (ProMax) or three screens (Pro Player)
+  * Up to four screens (ProMax, max 4K output) or three screens (Pro Player, max 1080p HD output)
   * HDMI/other connectors
 
 **NOTE**  
