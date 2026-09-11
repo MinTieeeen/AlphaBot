@@ -220,9 +220,9 @@
     "36501302096915": {
       "title": "How to access the Troubleshooting page of the OptiSigns Player",
       "url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
-      "hash": "9912d89259f41ebc0fe6c16bbe7ff2943605922a81e99160e2a3063b95742325",
+      "hash": "19fafc2e2bd5cc5b50979cdbcd5a4bda41148b4f251ae42015d411afcb842fe0",
       "filename": "content/how-to-access-the-troubleshooting-page-of-the-optisigns-player.md",
-      "updated_at": "2025-09-02T20:08:24Z"
+      "updated_at": "2026-09-10T16:15:36Z"
     },
     "35749502945555": {
       "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments",
@@ -372,5 +372,5 @@
       "updated_at": "2026-08-05T18:22:19Z"
     }
   },
-  "last_run": "2026-09-10T12:51:34.838038"
+  "last_run": "2026-09-11T12:46:19.828504"
 }
