@@ -24,49 +24,49 @@
     "53028011485715": {
       "title": "How to Display a Snowflake Dashboard with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
-      "hash": "3c2e66ea7b4e58b023202bf1cbb37704ecd1a056ba1df7c5f69d7ff7ce477aaf",
+      "hash": "1015cdb0b78a1ae18242443a7c7529b57f8625d573d7fa31ccfa3d0e4ef0f475",
       "filename": "content/how-to-display-a-snowflake-dashboard-with-optisigns.md",
       "updated_at": "2026-07-01T21:59:22Z"
     },
     "52523606879251": {
       "title": "OptiSigns Digital Signage App for Zoom \u2014 Adding, Using, and Removing the App",
       "url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
-      "hash": "ac1ae21d82ebac0ab88f2aa0ecd4901891c799b3f154f3d4c94afd1599cc0175",
+      "hash": "e69aa31c08c9f18baf86f2950f5703c8f252dbe43c51428d2b3a9690be932f5a",
       "filename": "content/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md",
       "updated_at": "2026-06-11T22:24:43Z"
     },
     "52412502456083": {
       "title": "Connect Google Meet Hardware to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage",
-      "hash": "f772dbb66df224680bc543603704d043448b637202220e36e0a5724dd1372d95",
+      "hash": "30db8e5775305eec8c8f5a6179b266e7d3b1eb22bcb339ac1f23d8d45e71e800",
       "filename": "content/connect-google-meet-hardware-to-optisigns-digital-signage.md",
       "updated_at": "2026-06-15T19:14:07Z"
     },
     "52350277262483": {
       "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "7cb9b6181db4f6fe94c7d5a4460bd602b4384c66fcc57f6edb09c11fd0506fee",
+      "hash": "a4e8138a8861a9d8c03cde11d747c7da367968eb2d21ffb0d9cced9a8288ffbc",
       "filename": "content/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-08-27T19:45:55Z"
     },
     "52113036672403": {
       "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-      "hash": "d8bfaa6341a2938714e5b800f8a13aba5df9f8d83c20e9466bdc4eab4f90c2fc",
+      "hash": "44fe5ca603bcb08b82a592ec0c3e673079d6791257ca61db6c5ea840b5186662",
       "filename": "content/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
       "updated_at": "2026-07-08T14:58:11Z"
     },
     "52069065128723": {
       "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "f57aa9e5552a3f987c1bfdcf6836765cecdd112add310439e5a624bbcb2704c5",
+      "hash": "3fdcdebe821ac80b2758bf713ef8b3a3e006cb71dc504531263cd85f6ec5f6e3",
       "filename": "content/connect-zoom-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-07-17T22:17:54Z"
     },
     "51343184586643": {
       "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "63c87a17b6ee13abe7eec5883f5eb94307b9d9f008dc380003d4df31220c9b26",
+      "hash": "8172204b278f9d9875298345b2111d6760a35aa5632084ea62d58b4fe862c066",
       "filename": "content/connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-07-01T16:55:46Z"
     },
@@ -185,7 +185,7 @@
     "39250660729747": {
       "title": "How to Use the Tableau App",
       "url": "https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App",
-      "hash": "6cfa4999e297cb835e302e3517265ec9f1047657ae5767cf2f40ffb293cb74ea",
+      "hash": "eb2cd095efbde832a6a1f5f7cd8c2bca43e812501bc0b434f2212aad7cf9508f",
       "filename": "content/how-to-use-the-tableau-app.md",
       "updated_at": "2026-01-06T22:36:49Z"
     },
@@ -213,7 +213,7 @@
     "36911639377683": {
       "title": "How to Use OptiSigns with Microsoft Teams Rooms",
       "url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-      "hash": "77be28747a6e4dbde265e630243da5d87a38a77eea1487654302dcef4ffa64e4",
+      "hash": "771c10096cbc96bd512475caa7cd7210e1f1f406924ec49334952fb25c41ebb9",
       "filename": "content/how-to-use-optisigns-with-microsoft-teams-rooms.md",
       "updated_at": "2026-09-10T10:46:24Z"
     },
@@ -374,23 +374,23 @@
     "55450681344915": {
       "title": "Connect SharePoint News to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
-      "hash": "e8ff6a21e5ed0e81a33fff3a241a5cd01a5fa74ede268ba3303917447e69e20d",
+      "hash": "650d55f1907531ff199cca6193f6db46a53e684656cb82d3ea14dd62d577376a",
       "filename": "content/connect-sharepoint-news-to-optisigns-digital-signage.md",
       "updated_at": "2026-09-15T23:09:01Z"
     },
     "55416186918163": {
       "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
       "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
-      "hash": "04eef1af8667f242586b16e723a0f7f5a3216a612264e19f25048b6ea89cefff",
+      "hash": "eece32004d121f00652038f6f2cbe50b1e0d2393b010d6457af1e4bc60e34f13",
       "filename": "content/how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
       "updated_at": "2026-09-15T17:33:06Z"
     },
     "55416185869331": {
       "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
       "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
-      "hash": "0b24971117a02d216b572219a7978baeb1c43c2bf84295172384b63323e832a5",
+      "hash": "68c3ccf5142c40416bca269554045e93b068337c424212337719a2baf90a477d",
       "filename": "content/broadcast-send-scheduled-snapshots-of-your-dashboards.md",
-      "updated_at": "2026-09-15T15:34:23Z"
+      "updated_at": "2026-09-23T16:24:51Z"
     },
     "55640830295187": {
       "title": "Using the Japan Transit App",
@@ -412,7 +412,14 @@
       "hash": "c9857aa5ae544718ab0fd90fa8f776a3ae4a984718fd8cc8f0ab325aa32a8f64",
       "filename": "content/how-to-display-grafana-dashboards-on-optisigns.md",
       "updated_at": "2026-09-22T14:14:49Z"
+    },
+    "55709616003219": {
+      "title": "Using the X Social App / Add-On",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
+      "hash": "685fd6ac13ddf52f5a9aea223b39f10ef5c8a772981a1967be8e0b12b035c9df",
+      "filename": "content/using-the-x-social-app-add-on.md",
+      "updated_at": "2026-09-23T19:58:50Z"
     }
   },
-  "last_run": "2026-09-23T13:33:33.930291"
+  "last_run": "2026-09-24T13:28:46.629094"
 }
