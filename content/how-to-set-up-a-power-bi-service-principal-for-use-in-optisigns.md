@@ -23,7 +23,7 @@ This reduces headaches in situations when:
 
 Using a Power BI service principal, the authentication tokens are associated with a registered app instead of a user. This allows you to set a longer validity time for the authentication token and avoids more frequent re-authorization. Using service principal with App registration for Power BI integration is supported well with OptiSigns.
 
-**NOTE:** This feature is only available to customers on an **Enterprise** plan.  
+**NOTE:** This feature is available to customers on the **Pro Plus** , **Engage** or **Enterprise** plan.  
 ---  
   
 * * *
