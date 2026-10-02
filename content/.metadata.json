@@ -24,7 +24,7 @@
     "53028011485715": {
       "title": "How to Display a Snowflake Dashboard with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
-      "hash": "d023007b097622fe9106eb439c026ad4832e506459be5d76749731d638f7917c",
+      "hash": "3446927d6c4660d7f5a4dc19b8fe9c36663af4c9ecc3ef41b74b83a32cff3e6f",
       "filename": "content/how-to-display-a-snowflake-dashboard-with-optisigns.md",
       "updated_at": "2026-07-01T21:59:22Z"
     },
@@ -38,14 +38,14 @@
     "52412502456083": {
       "title": "Connect Google Meet Hardware to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage",
-      "hash": "d77d88fa6d22cdacd82642d9c18967db446934d33b394ce51b577255eb5d4780",
+      "hash": "5fe299399daa09b982edfa3c6320b8aa40b00c89ef57dfd8da1de0a7e4fdde95",
       "filename": "content/connect-google-meet-hardware-to-optisigns-digital-signage.md",
       "updated_at": "2026-06-15T19:14:07Z"
     },
     "52350277262483": {
       "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "1c8d5b3ae22671959b1546ab055da6afec258a42d2f33e79d133d7062098d341",
+      "hash": "3fc27c93f38dffed5d1bc709e911a2f91ee5b1ab741aa6b5067865abd0b5b46a",
       "filename": "content/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-08-27T19:45:55Z"
     },
@@ -59,7 +59,7 @@
     "52069065128723": {
       "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "f897f11023df412c0681a87394962784ffba190e46c5ee5d15e4f1001c5e58f5",
+      "hash": "515644d1eb207f9f00805fd37e962cd35d61651866d20b9440ada7e2d569b0de",
       "filename": "content/connect-zoom-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-07-17T22:17:54Z"
     },
@@ -192,7 +192,7 @@
     "39080869746067": {
       "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
       "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
-      "hash": "11841bed147fd8f4a4853a5f608fc5bda4955d9b4c2a3fd5ed4883e92f6b0229",
+      "hash": "53ef69114229208db44f092767631997c3ed627937e6cde18c22dc0bfbddab88",
       "filename": "content/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
       "updated_at": "2026-09-10T10:46:28Z"
     },
@@ -206,7 +206,7 @@
     "37966066335891": {
       "title": "Getting Started with an OptiSigns Free Trial",
       "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
-      "hash": "379032637c87ad7c16fa457de753a354f630cfb397e5d88713580db45a76db15",
+      "hash": "6020cc92141b5ce794a3e8aaaa2e8d4432c1b5f0833c3ddd6007689e5e9dea6e",
       "filename": "content/getting-started-with-an-optisigns-free-trial.md",
       "updated_at": "2026-09-10T10:46:25Z"
     },
@@ -241,7 +241,7 @@
     "34379983350163": {
       "title": "Accepted Payment Methods",
       "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods",
-      "hash": "c31ac236e9dc3afc480a913525f3e23335a05b04c5151c28cbb083a995d343da",
+      "hash": "697546da4002d5dad444cf6892b24e5458ebe32f34e25f5fd77817e64464810e",
       "filename": "content/accepted-payment-methods.md",
       "updated_at": "2025-09-04T15:39:32Z"
     },
@@ -381,7 +381,7 @@
     "55416186918163": {
       "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
       "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
-      "hash": "5673d9680be3fa11cefdecd5781811f41fd7f137aed80e1652bb768af7bc4d86",
+      "hash": "115d9b2bcfad3a59a2365da7b2bc3dd3b68987d874acd971f4b6a19d7c538d6d",
       "filename": "content/how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
       "updated_at": "2026-09-15T17:33:06Z"
     },
@@ -416,7 +416,7 @@
     "55709616003219": {
       "title": "Using the X Social App / Add-On",
       "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
-      "hash": "0cc237f748c62072a23bd9db408824f47f63f19be055850d5f9278457f683cbb",
+      "hash": "cb1cceaf9f048989dbcae761c7545e497c1043814c1d144ac1fc5c62553f07f8",
       "filename": "content/using-the-x-social-app-add-on.md",
       "updated_at": "2026-09-23T19:58:50Z"
     },
@@ -442,5 +442,5 @@
       "updated_at": "2026-09-29T19:44:32Z"
     }
   },
-  "last_run": "2026-10-01T15:21:08.234440"
+  "last_run": "2026-10-02T14:39:46.527136"
 }
