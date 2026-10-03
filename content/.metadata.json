@@ -10,28 +10,28 @@
     "53216900345875": {
       "title": "What Access Does OptiSigns Have to My Account and Devices?",
       "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
-      "hash": "6a08dcc148e3188760332012042ec4d3b569dc89bf0e5b372d373504b9f5fc8a",
+      "hash": "36124cb2f4755a37e29ebf5625599fd5675e5cdf9e7a4c6dc9d01147d351c511",
       "filename": "content/what-access-does-optisigns-have-to-my-account-and-devices.md",
       "updated_at": "2026-07-06T15:29:04Z"
     },
     "53095698149011": {
       "title": "Using the Japan Earthquake App",
       "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-      "hash": "8d60011433989e4b7a8f04df2d610e75410770c2d3c2b90b3fa0986fdb9307a0",
+      "hash": "281224cfedc1d624df15190b31abf91c8fa24e1e91b569a70c8aae0736c4de27",
       "filename": "content/using-the-japan-earthquake-app.md",
       "updated_at": "2026-08-12T14:38:37Z"
     },
     "53028011485715": {
       "title": "How to Display a Snowflake Dashboard with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
-      "hash": "3446927d6c4660d7f5a4dc19b8fe9c36663af4c9ecc3ef41b74b83a32cff3e6f",
+      "hash": "d023007b097622fe9106eb439c026ad4832e506459be5d76749731d638f7917c",
       "filename": "content/how-to-display-a-snowflake-dashboard-with-optisigns.md",
       "updated_at": "2026-07-01T21:59:22Z"
     },
     "52523606879251": {
       "title": "OptiSigns Digital Signage App for Zoom \u2014 Adding, Using, and Removing the App",
       "url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
-      "hash": "74138033ec97ead57282cf4eccf4f3cb0440c8e9f7e09ddc17fd1c26b770081c",
+      "hash": "43c7b1f967060fdaae3dd5eb26e40a01ef9c64233c5fc02f99defe2e88e504ee",
       "filename": "content/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md",
       "updated_at": "2026-06-11T22:24:43Z"
     },
@@ -52,7 +52,7 @@
     "52113036672403": {
       "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-      "hash": "e6291ff94c0f04219f88a88e670c8be67cb8d10a422a8828d2fd072701cb6413",
+      "hash": "f4753f3f097d1b99938a273b48749595fab24f1db3dae27232df0bc3057b35c0",
       "filename": "content/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
       "updated_at": "2026-07-08T14:58:11Z"
     },
@@ -66,21 +66,21 @@
     "51343184586643": {
       "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "887b7bcef67a8259f2493833ded8cfc383f222be0df9ccd5f6dda2ce859e76eb",
+      "hash": "27e70943f81c29ec39ca9968b8ec7be34574a95ec118e27f8f59ab1913b5fb2a",
       "filename": "content/connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-07-01T16:55:46Z"
     },
     "49039295567891": {
       "title": "ChromeOS PWA Instructions",
       "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
-      "hash": "26b9f772d6d5b5032826431f0df5dc6f8383ea930341f3cacff8e53dba93644b",
+      "hash": "37859881a876ad328a5dc3eac451e57994a1285c24fa58d4d202a4f69b34ad1b",
       "filename": "content/chromeos-pwa-instructions.md",
       "updated_at": "2026-05-05T15:48:27Z"
     },
     "48751096814995": {
       "title": "How to Use the Google Ads Dashboard App",
       "url": "https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App",
-      "hash": "046061a378fc1a601ddbc7fe17dde84bb05aa5068399aa012c15e2f1c3d0e95d",
+      "hash": "125cbc1e3c527197025901f926939556db3fab09e751352ab2199cc88d759557",
       "filename": "content/how-to-use-the-google-ads-dashboard-app.md",
       "updated_at": "2026-02-02T17:54:16Z"
     },
@@ -94,7 +94,7 @@
     "48626115821459": {
       "title": "How to Use the YouTube Dashboard App",
       "url": "https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App",
-      "hash": "65bbe2df7ef536648efc748dff15c318065bad17ed805b0c1f973f3d21685914",
+      "hash": "c15fe0448fc9dfeffadcde2467adcc127c4892e06b5f33f18cb19edab5397bff",
       "filename": "content/how-to-use-the-youtube-dashboard-app.md",
       "updated_at": "2026-02-02T15:32:55Z"
     },
@@ -115,7 +115,7 @@
     "45619214182803": {
       "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
       "url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions",
-      "hash": "94c1368a4c9783f34d555f09780564f9ff4ef7ccbdfdd79d3c7eada999fbf8d9",
+      "hash": "42ea1fa057f03e7f21028a6b8c80803d5b55cfb3b2e66f3ea1329e8c75816a01",
       "filename": "content/how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md",
       "updated_at": "2025-10-17T16:01:18Z"
     },
@@ -129,7 +129,7 @@
     "43657735780627": {
       "title": "User Management Example - Chain Restaurant or Retail Store with Multiple Locations",
       "url": "https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations",
-      "hash": "70eea8f6565028d3893b62420086f0a78d763827d1223047c807afede25f3832",
+      "hash": "5b6934a5e9abedd17a5e5c3f06a374273a9b462e7f0ddab5927de5caf4f4752a",
       "filename": "content/user-management-example---chain-restaurant-or-retail-store-with-multiple-locations.md",
       "updated_at": "2025-08-28T19:28:55Z"
     },
@@ -143,7 +143,7 @@
     "41432385864595": {
       "title": "Designer 2.0 New Features",
       "url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features",
-      "hash": "8e8d0c1903b31b0702f09d75157f16ae4f06342989238ddeb3c80e5db84acaaf",
+      "hash": "5e0453df9f4fe0de381cefad1b8bd33316bb770723f13742d44f6dda62873791",
       "filename": "content/designer-20-new-features.md",
       "updated_at": "2026-05-12T14:17:09Z"
     },
@@ -164,7 +164,7 @@
     "40212027797523": {
       "title": "Disk Encryption",
       "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption",
-      "hash": "924ac25a54ee12d1150049de2004833c131180934c4a5db80a01526e9f205357",
+      "hash": "9426151ad68b148c5fc3a631dcff76737d0ee732cda79a9dbdbd67b42e4c8183",
       "filename": "content/disk-encryption.md",
       "updated_at": "2026-09-10T10:46:32Z"
     },
@@ -178,14 +178,14 @@
     "39488874989587": {
       "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
       "url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick",
-      "hash": "b5d2fffc49047171cdd6d7f2639078ebf42bee74d8103dc0d71f8bb23aae8874",
+      "hash": "b719facd929ac4fc7ff77beb0a9d8c93f88ce8eb7c596cc93ac7355f0b18499f",
       "filename": "content/fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md",
       "updated_at": "2026-09-10T10:46:30Z"
     },
     "39250660729747": {
       "title": "How to Use the Tableau App",
       "url": "https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App",
-      "hash": "757e30907f0bcf395090697b0ab56da31a103d4ce0bd7326e1a5b434841d1548",
+      "hash": "87a418ec525be916de07f1dc0708ced2562157c347cc9d0714c95db70877dc91",
       "filename": "content/how-to-use-the-tableau-app.md",
       "updated_at": "2026-01-06T22:36:49Z"
     },
@@ -199,21 +199,21 @@
     "38062664690195": {
       "title": "Tagging in OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns",
-      "hash": "30e85c906da9e3fb00e4f717cddc356c7f5d2af3a0a4fdc37a9e8610e84fabf5",
+      "hash": "4e99689cbe345bdd7c0b352c259e1e91d01ee2a63536ddad0138552328c5103e",
       "filename": "content/tagging-in-optisigns.md",
       "updated_at": "2025-09-09T19:34:07Z"
     },
     "37966066335891": {
       "title": "Getting Started with an OptiSigns Free Trial",
       "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
-      "hash": "6020cc92141b5ce794a3e8aaaa2e8d4432c1b5f0833c3ddd6007689e5e9dea6e",
+      "hash": "379032637c87ad7c16fa457de753a354f630cfb397e5d88713580db45a76db15",
       "filename": "content/getting-started-with-an-optisigns-free-trial.md",
       "updated_at": "2026-09-10T10:46:25Z"
     },
     "36911639377683": {
       "title": "How to Use OptiSigns with Microsoft Teams Rooms",
       "url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
-      "hash": "aa26769d9a44bd6d01f31c8af8fcd21e7b952079755ab77d076963e53d405232",
+      "hash": "45200b46c085cbc992aa60f4af09c72e8bfde2c850624cf5fad5e9a1096ebfb5",
       "filename": "content/how-to-use-optisigns-with-microsoft-teams-rooms.md",
       "updated_at": "2026-09-30T21:54:02Z"
     },
@@ -227,14 +227,14 @@
     "35749502945555": {
       "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments",
       "url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
-      "hash": "1d8fcc354395779899ab2305bbe90441a7a443076bb90e2f7ec9b363f459a34f",
+      "hash": "03f6ecdfa8bd22ca44ce29f346b5349e6c9d4f672009c8a76a796cbabd41b40e",
       "filename": "content/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md",
       "updated_at": "2026-09-10T10:46:19Z"
     },
     "35184720136595": {
       "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
       "url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens",
-      "hash": "9fd00434def253a3df1103ac4c5e355b02f47737ccdebd3ea1ae0a54d5d0f933",
+      "hash": "37b42df448ff6547e4a47bb245a9f4ede11f64f1b2fa9868f9605179b8cc5067",
       "filename": "content/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md",
       "updated_at": "2025-09-04T16:54:34Z"
     },
@@ -248,14 +248,14 @@
     "33940834613139": {
       "title": "What Do I Get With an OptiSigns Free Plan?",
       "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "hash": "c7cfc2a99d4423bd0c21ec40c7f6d57d4c2920d1070c82752c212130f8896e19",
+      "hash": "dd5634c72b35827fef1cf832034d947c2321ea73772a2c683ab597f9cd9ab3f1",
       "filename": "content/what-do-i-get-with-an-optisigns-free-plan.md",
       "updated_at": "2026-09-10T09:51:52Z"
     },
     "33382537925267": {
       "title": "Making a Video Wall with OptiSigns (Video Wall App)",
       "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App",
-      "hash": "6bd8f8701e5a88589d833a2c97b8fbd9ec6fce8131e5a95f79357952333e56bb",
+      "hash": "58c2f1ce73fc5d0bd2ebac2c66a5752af3cfabef55a97fc2944b9b298d25218b",
       "filename": "content/making-a-video-wall-with-optisigns-video-wall-app.md",
       "updated_at": "2026-09-10T09:51:47Z"
     },
@@ -360,7 +360,7 @@
     "53952018650515": {
       "title": "How to Display Databricks Dashboards on OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns",
-      "hash": "6221c12004bb31f492363371b964bbd4695b1e352ddb88d37236b2f53996f2eb",
+      "hash": "b177ff97637311352d508ca1373d250fcf5fcdffd86cdf81777ac3bf6997d6ad",
       "filename": "content/how-to-display-databricks-dashboards-on-optisigns.md",
       "updated_at": "2026-08-11T19:04:29Z"
     },
@@ -395,21 +395,21 @@
     "55640830295187": {
       "title": "Using the Japan Transit App",
       "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
-      "hash": "488c0228cb923d5b399f513ea9d3efb13105e7b99fb7f4eb254b9b74a364721a",
+      "hash": "368d0cf7c25a887364231212ca829a1bb20c042a138afcacd7e95baaac2b86fc",
       "filename": "content/using-the-japan-transit-app.md",
       "updated_at": "2026-09-21T20:41:52Z"
     },
     "55669121864979": {
       "title": "Using the Flight Schedule App",
       "url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App",
-      "hash": "3073020b82954b3d7a0e9a52e74ac983556fa346b011ccd757cfff3d049a19a6",
+      "hash": "36248f5459a72137ccdfc46b424f9b9c0be79df88405d90ca7c77abde20e0e3a",
       "filename": "content/using-the-flight-schedule-app.md",
       "updated_at": "2026-09-22T18:59:24Z"
     },
     "55447693635731": {
       "title": "How to Display Grafana Dashboards on OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns",
-      "hash": "9ba1308a9d35a696f63d6f453fcd90b6ecfddbe8c3ce7b9fa59f755e9aead90d",
+      "hash": "0a3e56fd14a3bbd8becf23c378ec1893d147aef3ed0259263c0b25c15f2a9cf5",
       "filename": "content/how-to-display-grafana-dashboards-on-optisigns.md",
       "updated_at": "2026-09-22T14:14:49Z"
     },
@@ -430,17 +430,17 @@
     "55906396437523": {
       "title": "How to Use the Weather Radar App",
       "url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
-      "hash": "8f84deafdcad8a54cd0dc54e50032502ff1bb37b6c9a5adf0e336bead9fb93a3",
+      "hash": "7f58835d1b430bc25805abb452e25fb0879a59b1678f63278509997c5477b206",
       "filename": "content/how-to-use-the-weather-radar-app.md",
       "updated_at": "2026-09-29T19:04:57Z"
     },
     "55895814798739": {
       "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-      "hash": "25551038152a22637f9dcabef50256a967ebbe60a7c196e57e9c5ec428308420",
+      "hash": "49d6ca75941a010a4a95c857fe077f6c84f74c2cbad7a509f0a6b9f2b39c711d",
       "filename": "content/how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
       "updated_at": "2026-09-29T19:44:32Z"
     }
   },
-  "last_run": "2026-10-02T14:39:46.527136"
+  "last_run": "2026-10-03T13:15:53.330616"
 }
