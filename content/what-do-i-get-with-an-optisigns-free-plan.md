@@ -47,6 +47,7 @@ The Free Plan is **ONLY** supported on these devices:
 
   * OptiSigns Android Player
   * OptiSigns Pro or ProMax Player
+  * OptiKiosk (any version)
   * Windows Devices
   * Linux Devices
   * Raspberry Pi
