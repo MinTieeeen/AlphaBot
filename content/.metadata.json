@@ -10,7 +10,7 @@
     "53216900345875": {
       "title": "What Access Does OptiSigns Have to My Account and Devices?",
       "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
-      "hash": "1dae3a58a40fab4e351cda99dc75a659eb973e2c74f02f73db29b08f80fe01ed",
+      "hash": "5a11826325f7bf5ae8bf95b2dc7bd797e113707f4291c9494c2d643ccea1bfd0",
       "filename": "content/what-access-does-optisigns-have-to-my-account-and-devices.md",
       "updated_at": "2026-07-06T15:29:04Z"
     },
@@ -45,21 +45,21 @@
     "52350277262483": {
       "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "8009294b3fbcf7263f2de645a037a1f3b87ffabcd9e72e969181831b917bf6a6",
+      "hash": "4570cbfe7008dd20579322a69cda78fffafaad1b32c40e9ec8b3b00e5d62ed9b",
       "filename": "content/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-08-27T19:45:55Z"
     },
     "52113036672403": {
       "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
-      "hash": "4a622c524f87e5e2403143f653dee31042461b01883b087e93feddcf7ebd4e37",
+      "hash": "3e24c345dbb2382fdf4436de7c4aed29051eeccffa6591df3f49aeb9c9349055",
       "filename": "content/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
       "updated_at": "2026-07-08T14:58:11Z"
     },
     "52069065128723": {
       "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "da47be8f8d46fe4bad2bd87ef540710634680c50a795485942fc4bdae0368ea4",
+      "hash": "4c9e811993959b010b4ea097277ba47f3a48282a3f400fc4595f16882cf2971d",
       "filename": "content/connect-zoom-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-07-17T22:17:54Z"
     },
@@ -171,7 +171,7 @@
     "40147900639891": {
       "title": "OptiStick Troubleshooting Guide",
       "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide",
-      "hash": "feb4b5e39eb4f846e2f72703f321205f56331edcdb084b882e784051f250f79b",
+      "hash": "92e78fff7d6738d3065a37445f828e89189d6e528152877bb7cdf3174f4a396e",
       "filename": "content/optistick-troubleshooting-guide.md",
       "updated_at": "2026-06-26T13:52:36Z"
     },
@@ -248,7 +248,7 @@
     "33940834613139": {
       "title": "What Do I Get With an OptiSigns Free Plan?",
       "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
-      "hash": "bbcddf5f91c73071f8d2ac843882f8b52a67f8f6d983f69d8d3c0ef7dddcfbe1",
+      "hash": "9b4bf45facbb9084c7668a0f390a8237f584d6dee909f3119510728f736493dd",
       "filename": "content/what-do-i-get-with-an-optisigns-free-plan.md",
       "updated_at": "2026-10-08T16:57:16Z"
     },
@@ -353,7 +353,7 @@
     "53497007807251": {
       "title": "Device Management and Mass Provisioning",
       "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
-      "hash": "136471402270b09b79301ff8ca2112d7ea7261c042fec01de545f8f4c00dfb62",
+      "hash": "c7c5c77b4bfa8304d25021c92c2acf9ed180b6d57e217f6c36f1f1932553dc97",
       "filename": "content/device-management-and-mass-provisioning.md",
       "updated_at": "2026-07-16T16:39:52Z"
     },
@@ -442,5 +442,5 @@
       "updated_at": "2026-09-29T19:44:32Z"
     }
   },
-  "last_run": "2026-10-09T15:11:42.048051"
+  "last_run": "2026-10-10T14:24:35.285861"
 }
