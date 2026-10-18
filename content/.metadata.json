@@ -10,7 +10,7 @@
     "53216900345875": {
       "title": "What Access Does OptiSigns Have to My Account and Devices?",
       "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
-      "hash": "2beb4f3b420e8e440c2edf99f32801fefae861882586577a39d194c61d60473e",
+      "hash": "f8cddeff73301c557065a7f5e20be298be9696a5cecc9c008c1f6bc81fe804c1",
       "filename": "content/what-access-does-optisigns-have-to-my-account-and-devices.md",
       "updated_at": "2026-07-06T15:29:04Z"
     },
@@ -101,7 +101,7 @@
     "48241081473043": {
       "title": "Operational Schedule Troubleshooting",
       "url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
-      "hash": "37b243b4884acfc389a6aba17d6c255aa6a1bc0fbc1ab0d5c9f3a2dc32fb1fbd",
+      "hash": "df02df27e0f2a3f9d6af014ec2c3f86b793c4a59212ce12e03e6a1f0257c29af",
       "filename": "content/operational-schedule-troubleshooting.md",
       "updated_at": "2026-04-20T21:26:17Z"
     },
@@ -115,14 +115,14 @@
     "45619214182803": {
       "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
       "url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions",
-      "hash": "8819f8a6e497eed996b21d7ec756bf34bb35f54126b5ad04de880625a57d0ce3",
+      "hash": "bea274e53225a8b8481877d8f8a39eb27fc69a44633d54e411478f738714179f",
       "filename": "content/how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md",
       "updated_at": "2025-10-17T16:01:18Z"
     },
     "44890229616403": {
       "title": "Using an Enterprise Network (802.1x) with OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns",
-      "hash": "2f466d189230e5dde61ef07c3b1f9246ab85d3022c20b2efbb9a1d2b1cfcb9ed",
+      "hash": "3818b9fa09d0ce915d07cb33b78dd632732ff52231dc8b27eab5dd80e0ba6134",
       "filename": "content/using-an-enterprise-network-8021x-with-optisigns.md",
       "updated_at": "2026-05-20T18:11:11Z"
     },
@@ -136,21 +136,21 @@
     "42087942047379": {
       "title": "Getting Started with Designer",
       "url": "https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer",
-      "hash": "6f2318be7ee3adfbcf9b825a5fe975e5f5b763ff9554ff12ffc97a382ded6c0c",
+      "hash": "745e57cf29adcffeac5fdd5e5cd7c050012a7c7a6ebdb49c28b5de36fae96022",
       "filename": "content/getting-started-with-designer.md",
       "updated_at": "2026-09-10T10:46:39Z"
     },
     "41432385864595": {
       "title": "Designer 2.0 New Features",
       "url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features",
-      "hash": "552691c038fcfed1478f320e1e76aa6ab0bb0f247f3692279abf5c1deec07df5",
+      "hash": "43275fd4d6c59f0fb6e1009e8947837b01fc5f9b638bf1905595e44d10fb474c",
       "filename": "content/designer-20-new-features.md",
       "updated_at": "2026-05-12T14:17:09Z"
     },
     "40736654972563": {
       "title": "OptiSigns Pro/ProMax Player Troubleshooting Guide",
       "url": "https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide",
-      "hash": "859768c23f5ed11c0a2ef93fd9f5fd61c3b9650f3814c5afa7972887c693ece2",
+      "hash": "eb60d7413978b8937f2dbdb3ddb284966cf4c655efe2e474d3fa5b21c7a4214f",
       "filename": "content/optisigns-propromax-player-troubleshooting-guide.md",
       "updated_at": "2026-01-13T21:20:16Z"
     },
@@ -164,7 +164,7 @@
     "40212027797523": {
       "title": "Disk Encryption",
       "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption",
-      "hash": "46b9abaaa12c526c6ca899f9626bd8cc17465a429e58ba529cd7e73f6c6da303",
+      "hash": "e39421cafc195652d085f540eb9df3615e42d1d32ef1b55dfc1d879b0de975b7",
       "filename": "content/disk-encryption.md",
       "updated_at": "2026-09-10T10:46:32Z"
     },
@@ -192,14 +192,14 @@
     "39080869746067": {
       "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
       "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration",
-      "hash": "f07dbe1dead8c4675f4d5042e7b9de4ac647af583d485cfc8b87a56576a66d3b",
+      "hash": "5ce4eb514cb826a4b8746c0074bc874f8100d489c046e15948329d825bab4681",
       "filename": "content/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
       "updated_at": "2026-09-10T10:46:28Z"
     },
     "38062664690195": {
       "title": "Tagging in OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns",
-      "hash": "6cf04755a02e288ef296e040ec8b78a51bbaeb12b620c51197bc944f6ca6df67",
+      "hash": "3581da0086b715f22705bad4f485b420a6c0c8c01ce10355241b40530e4aba7a",
       "filename": "content/tagging-in-optisigns.md",
       "updated_at": "2025-09-09T19:34:07Z"
     },
@@ -234,7 +234,7 @@
     "35184720136595": {
       "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
       "url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens",
-      "hash": "34459b272c03d3ab227af6c952ee1296b4018642a32b1798ecb0305528752651",
+      "hash": "f0c18aac93318b7a801d9459411a3a787dddeb777d4eb480677cce9c3330b886",
       "filename": "content/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md",
       "updated_at": "2025-09-04T16:54:34Z"
     },
@@ -367,7 +367,7 @@
     "54095075680275": {
       "title": "OptiDev Add-on - Free Trial and Pricing",
       "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
-      "hash": "16d6e7630e527ead819671b2267e4770c0f6ec9cec84111f4fc2c7bc23e576b9",
+      "hash": "f4383da957a945d5cd99216758d1177faa03e2c52eef7e683fc1643997b73e69",
       "filename": "content/optidev-add-on---free-trial-and-pricing.md",
       "updated_at": "2026-08-05T18:22:19Z"
     },
@@ -395,7 +395,7 @@
     "55640830295187": {
       "title": "Using the Japan Transit App",
       "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
-      "hash": "2318c4a373655a67586eb4a1580b9f39ec078443c8687782f523dc5242bb6470",
+      "hash": "e865c217fba620951fb05d13debaba268d4dbe9d98bfd9c8285d6dc4a0cee84d",
       "filename": "content/using-the-japan-transit-app.md",
       "updated_at": "2026-09-21T20:41:52Z"
     },
@@ -423,7 +423,7 @@
     "55719322614803": {
       "title": "Inbound Webhook DataSources in Designer",
       "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
-      "hash": "6e8ecb649e83ce10d52772f7331e6f1e4130aa7013b47894f46a96e22b043ba7",
+      "hash": "f725a4dc1f5b1f62ae0d6241ac02888109036456b644ae8b909f70403da5f9a6",
       "filename": "content/inbound-webhook-datasources-in-designer.md",
       "updated_at": "2026-09-24T17:00:10Z"
     },
@@ -463,5 +463,5 @@
       "updated_at": "2026-10-16T19:51:56Z"
     }
   },
-  "last_run": "2026-10-17T12:05:44.660790"
+  "last_run": "2026-10-18T12:33:24.131532"
 }
