@@ -2,89 +2,93 @@
 
 Source: https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial
 
-###  In this article, we take you through the features you'll have access to with an OptiSigns Free Trial
+### In this article, we'll cover what you get during your 14-day free trial, how to subscribe, and what happens when the trial ends.
 
-  * How Do I Start an OptiSigns Free Trial?
-  * What Comes With an OptiSigns Free Trial?
-  * What Happens when the Free Trial Expires?
-  * Can I Add More Users to a Free Trial Account?
-  * How Can I Sign Up for a More Advanced Plan?
-  * Alright, I’ve Signed Up for a Free Trial. What's the Easiest Way to Get Started Using OptiSigns?
-
+  * What You Get During Your Trial
+  * Subscribe to a Paid Plan
+  * When Your Trial Ends
+  * Add-On Trials
+  * Troubleshooting and Frequently Asked Questions
 
 
-Looking into [digital signage](https://www.optisigns.com/)? OptiSigns makes it simple to try our platform with our 14-day Free Trial, a fully-featured look at all OptiSigns has to offer.
+
+Every new OptiSigns account starts with a 14-day free trial of our Pro Plus plan. No credit card is required. To start one, [sign up](https://app.optisigns.com/signUp) and you're in.
 
 **NOTE**  
 ---  
-An OptiSigns Free Trial is distinct from a [**Free Plan**](https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan), which is a subscription type with no end. A Free Trial ends after 14 days.  
+A Free Trial is different from the Free Plan. The trial gives you every Pro Plus feature for 14 days and then ends. The Free Plan never ends, but it's limited to 3 screens and fewer features. See [What Do I Get With an OptiSigns Free Plan?](https://support.optisigns.com/hc/en-us/articles/33940834613139)  
   
 * * *
 
-## How Do I Start an OptiSigns Free Trial?
+## What You Get During Your Trial
 
-Starting an OptiSigns Free Trial is easy. Simply [**sign up**](https://app.optisigns.com/signUp) and you will automatically be enrolled in a Free Trial.
-
-![](/hc/article_attachments/37966058631955)
-
-* * *
-
-## What Comes with an OptiSigns Free Trial?
-
-With an OptiSigns Free Trial, you’ll have complete access to our platform. This includes:
-
-  * Everything featured in the **[Pro Plus](https://www.optisigns.com/pricing)** plan and lower
-  * 1 GB of free storage
-  * Two free screens
+  * **Features** \- Everything in the [Pro Plus](https://www.optisigns.com/pricing) plan.
+  * **Screens** \- 2 screens.
+  * **Storage** \- 1 GB of cloud storage.
+  * **Users** \- Invite as many users as you like. See [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles).
 
 
+
+New to OptiSigns? The [Getting Started Guide](https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide) walks you through pairing your first screen and putting content on it.
 
 * * *
 
-## What Happens when the Free Trial Expires?
+## Subscribe to a Paid Plan
 
-When your OptiSigns Free Trial expires, your account will be deactivated. It can be reactivated on the OptiSigns Free Plan for no charge.
+You can subscribe at any time during your trial, or after it ends. Open the account menu at the top right and choose **Subscription Plan** , then click **Update subscription**.
 
-The OptiSigns Free Plan comes with some limitations when compared to a Free Trial.
+Choose your plan first, then your number of screens and whether to pay Monthly or Yearly, then enter your payment details. For a full walkthrough, see [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782).
 
-If you’ve created assets or playlists in OptiSigns while on your free trial or while using a paid account and you choose to downgrade to a Free Plan, some of these may be affected.
+**IMPORTANT**  
+---  
+Choose your billing currency before you subscribe. You can pick US dollars, euros, British pounds, Canadian dollars or Australian dollars on the plan step. Once you've subscribed, the currency can't be changed without contacting our support team.  
+  
+* * *
 
-Certain apps will be unavailable for use on a Free Plan. These apps are marked with a red lock.
+## When Your Trial Ends
 
-![](/hc/article_attachments/37966058635923)
+When your 14 days are up, your account becomes inactive until you choose a plan. When you sign in, you'll see **Your Pro Plus trial has ended**. Your content is safe; nothing is deleted.
 
-You will be unable to create assets using these apps while on a Free Plan. Any assets created using one of these apps during your trial or as a paid subscriber will still exist on the OptiSigns backend, but will be unable to display on your screens.
+![Your Pro Plus trial has ended dialog listing what you had on Pro Plus, with Manage Account and Subscribe](/hc/article_attachments/57733994061843)
 
-If your used storage is more than 1GB, after your account is downgraded to a Free Plan, you will have limited ability to create new assets. You will need to delete some files to free up available storage for your free plan.
+From there you can:
 
-You will lose access to certain features that are not available on a Free plan, such as using Schedules, SplitScreens, or widgets in designer. Warning messages will appear when you attempt to use those features.
+  * **Subscribe** \- Choose a paid plan and pick up where you left off.
+  * **Move to the Free Plan** \- Click **Subscribe** , then **Downgrade to Free Plan** below the plan cards. You'll need no more than 3 supported screens and no teams. See [Move to the Free Plan](https://support.optisigns.com/hc/en-us/articles/33940834613139#MoveToTheFreePlan).
+  * **Manage Account** \- The account Owner can open the account settings.
 
-See our complete [**breakdown of the OptiSigns Free Plan**](https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan) for more information.
+
+
+If you're not the account Owner or an admin, ask one of them to choose a plan.
 
 * * *
 
-## Can I Add More Users to a Free Trial Account?
+## Add-On Trials
 
-Yes! With an OptiSigns Free Trial, you have full access to our [**User Management**](https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles) capabilities. You can add as many users to your account as you’d like.
-
-* * *
-
-## How Can I Sign Up for a More Advanced Plan?
-
-To sign up for an OptiSigns plan, navigate to the **Subscription Plan** tab under your username:
-
-![](/hc/article_attachments/37966066332435)
-
-Once there, click the **Update subscription** button. Here, you’ll choose the amount of screens you want, and what plan you’ll sign up for.
+Some add-ons, such as Engage, OptiDev, Video Wall and AeriCast, have their own free trials. You can start one during your Pro Plus trial or on a paid plan, but not on the Free Plan. An add-on trial is charged automatically when it ends unless you cancel it.
 
 * * *
 
-## Alright, I’ve Signed Up for a Free Trial. What's the Easiest Way to Get Started Using OptiSigns?
+## Troubleshooting and FAQ
 
-We recommend playing around with our platform to learn the UI/UX and the full platform capabilities. Here in our support center, we’ve got articles on everything to get you started:
+Here are a few of the more common questions our customers ask about the free trial, and how to solve them.
 
-  * [Getting Started with OptiSigns](https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide)
-  * [How to get the most out of your digital signs](https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs)
-  * [How to contact OptiSigns support](https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support)
+#### Do I Need a Credit Card to Start a Trial?
 
+No. You only enter payment details when you subscribe.
 
+#### Can I Get More Than 2 Screens During My Trial?
+
+Subscribe to a paid plan with the number of screens you need. You can subscribe before the trial ends.
+
+#### Will I Lose My Content When the Trial Ends?
+
+No. Your content is kept. Subscribe, or move to the Free Plan, to start using it again.
+
+#### I Chose the Wrong Currency
+
+If you haven't subscribed yet, change it on the plan step of the subscription wizard. After you've subscribed, contact our [support team](https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support).
+
+### That’s all!
+
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

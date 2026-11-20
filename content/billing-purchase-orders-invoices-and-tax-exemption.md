@@ -43,12 +43,11 @@ You can find copies of your invoices and receipts under **Billing History** in y
 ## Pay by Bank Account or Check
 
   * **US bank account** \- If your account is billed in US dollars, you can pay from a US bank account instead of a card. Add it under **Payment Settings** ; see [Update Your Payment Method and Address](https://support.optisigns.com/hc/en-us/articles/360041587014#UpdateYourPaymentMethodAndAddress). This option isn't available in other currencies.
+  * **Check** \- We accept checks in US dollars only, with a $25 payment processing fee.
 
 
 
 ![Update Payment Method form in Payment Settings showing the Card and US bank account options](/hc/article_attachments/57730816478227)
-
-\- **Check** \- We accept checks in US dollars only, with a $25 payment processing fee.
 
 * * *
 
