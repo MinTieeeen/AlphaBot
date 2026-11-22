@@ -10,14 +10,14 @@
     "53216900345875": {
       "title": "What Access Does OptiSigns Have to My Account and Devices?",
       "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
-      "hash": "a07102d9dde4b4acae7bb258d7576b39e897485fac498fd72ed95ac6aababac0",
+      "hash": "485f40387fb26ccf3ad885068ea65be7fb85eeb0d17218e32f9380bc5630bbdc",
       "filename": "content/what-access-does-optisigns-have-to-my-account-and-devices.md",
       "updated_at": "2026-07-06T15:29:04Z"
     },
     "53095698149011": {
       "title": "Using the Japan Earthquake App",
       "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
-      "hash": "630853b78fc9d9b88639ee61422811662c028329274fd906454ab7ae5d54a119",
+      "hash": "48162d08ebabecdbb459b553bb9643c743494d362e4978b54cad9e794a5b00b7",
       "filename": "content/using-the-japan-earthquake-app.md",
       "updated_at": "2026-08-12T14:38:37Z"
     },
@@ -45,7 +45,7 @@
     "52350277262483": {
       "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
       "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
-      "hash": "4e6b9dbf675bd4d669d109f880d4059de580d7cf16a2c5ac8638db8302a56c53",
+      "hash": "8e5a47498e92e312ed95378e67e19eba102b94b54ff5991e876e26b6a5032a26",
       "filename": "content/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "updated_at": "2026-08-27T19:45:55Z"
     },
@@ -164,7 +164,7 @@
     "40212027797523": {
       "title": "Disk Encryption",
       "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption",
-      "hash": "ac5e1b419de66f17f8d6502ecfd4fa954bf4de90e9e32730c894c42b0d7808e4",
+      "hash": "183eea279d958fddc14ffbe24ea41bc8203bc0b0b302aaa9662d28aabf50d1ba",
       "filename": "content/disk-encryption.md",
       "updated_at": "2026-09-10T10:46:32Z"
     },
@@ -178,7 +178,7 @@
     "39488874989587": {
       "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
       "url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick",
-      "hash": "a7d4d88b060fe7a899b0b9202d61fbeedab20b438aa2f69563ac21445174772d",
+      "hash": "cd1feae42c4501b406bfdcf73797b088e5e874bf2cddd2b67dd8893a1f41e7f8",
       "filename": "content/fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md",
       "updated_at": "2026-09-10T10:46:30Z"
     },
@@ -367,7 +367,7 @@
     "54095075680275": {
       "title": "OptiDev Add-on - Free Trial and Pricing",
       "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
-      "hash": "d77de09cce8fe5f833dbf3f8ce8d168707bd2ec5766ab3bcd1adb05a6589a364",
+      "hash": "5f850a76761f23b021a84d7326e64ec7475f9c249f605068ecb7dd9745cb5d64",
       "filename": "content/optidev-add-on---free-trial-and-pricing.md",
       "updated_at": "2026-11-18T17:12:24Z"
     },
@@ -430,14 +430,14 @@
     "55906396437523": {
       "title": "How to Use the Weather Radar App",
       "url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
-      "hash": "aba8661105581c22afce42e4a59588414c60cc4de54850af1e6e0ba35a2b7748",
+      "hash": "59fa328f7ba6cdec1001da559f823d9ddba6cc1aad95d9c03d0b80603bdf5d3f",
       "filename": "content/how-to-use-the-weather-radar-app.md",
       "updated_at": "2026-09-29T19:04:57Z"
     },
     "55895814798739": {
       "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
       "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
-      "hash": "08ac48b0908c8271e0b829adf0c9e274de96f2104d6ff056d25d5e2c2f33bf4d",
+      "hash": "53441e085b5f0d1b8fb6f333ef70cf660c39ec8155c174c058bd4b733aacd8e2",
       "filename": "content/how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
       "updated_at": "2026-10-16T21:20:16Z"
     },
@@ -472,7 +472,7 @@
     "56987330525587": {
       "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
       "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
-      "hash": "19a928dc131ab884286df9e6218589aaa5c2623f7ee3d8629b4be661bf561afb",
+      "hash": "84fd0802a96a77ac0e4c20726078cd62bf85a61884710153090b68eca2d48a65",
       "filename": "content/connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
       "updated_at": "2026-11-18T16:34:19Z"
     },
@@ -498,5 +498,5 @@
       "updated_at": "2026-11-19T20:27:28Z"
     }
   },
-  "last_run": "2026-11-21T16:02:13.637686"
+  "last_run": "2026-11-22T16:08:55.916380"
 }
