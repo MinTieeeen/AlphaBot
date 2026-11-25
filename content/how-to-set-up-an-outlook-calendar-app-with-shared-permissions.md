@@ -90,6 +90,17 @@ Now the Resource's calendar will populate on this User's calendar display.
 
 From here, follow the normal instructions on [Setting Up a Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-use-Microsoft-Outlook-Office-365-Calendar-with-OptiSigns) to get your Calendar up and running.
 
+* * *
+
+## Related Articles
+
+  * [How to Use Microsoft Outlook Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360036250853?ref=related)
+  * [How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)](https://support.optisigns.com/hc/en-us/articles/4403616315539?ref=related)
+  * [How to Use the Calendar Mix app](https://support.optisigns.com/hc/en-us/articles/4408052949139?ref=related)
+  * [How to Use iCloud Calendar with OptiSigns](https://support.optisigns.com/hc/en-us/articles/27356288211859?ref=related)
+
+
+
 ### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 

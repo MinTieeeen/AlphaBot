@@ -208,6 +208,17 @@ There are a few critical points to note here.
 
 
 
+* * *
+
+## Related Articles
+
+  * [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+  * [How to Display Salesforce Dashboards and Reports on OptiSigns](https://support.optisigns.com/hc/en-us/articles/55895814798739?ref=related)
+  * [How to Display Databricks Dashboards on OptiSigns](https://support.optisigns.com/hc/en-us/articles/53952018650515?ref=related)
+  * [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362?ref=related)
+
+
+
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

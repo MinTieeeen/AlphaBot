@@ -450,6 +450,18 @@ To go back to the old 1.0 version of Designer, simply click the **Use Designer 1
 ---  
 Designer 1.0 is planned to be obsoleted by end-of-year 2025, and all designs created going forward will use Designer 2.0.  
   
+* * *
+
+## Related Articles
+
+  * [Your Templates](https://support.optisigns.com/hc/en-us/articles/42830652820115?ref=related)
+  * [Widgets in Designer](https://support.optisigns.com/hc/en-us/articles/42436941395475?ref=related)
+  * [Animation](https://support.optisigns.com/hc/en-us/articles/42305104960147?ref=related)
+  * [Customize Text](https://support.optisigns.com/hc/en-us/articles/42157810188179?ref=related)
+  * [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+
+
+
 ###  **That’s all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 

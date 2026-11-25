@@ -233,6 +233,18 @@ However, for our example, our hypothetical restaurant chain wants to enforce SSO
 
 To do this, go to our [**SSO & SAML**](https://support.optisigns.com/hc/en-us/sections/26319189062803-SSO-SAML)**** section and follow the appropriate article. We highly recommend reading our [**SAML best practices**](https://support.optisigns.com/hc/en-us/articles/4407128433299-SAML-integration-strategy-best-practice)**** article, as well.
 
+* * *
+
+## Related Articles
+
+  * [Folder Level Permissions](https://support.optisigns.com/hc/en-us/articles/360044600474?ref=related)
+  * [Advanced Security: Managing User Roles](https://support.optisigns.com/hc/en-us/articles/360046356113?ref=related)
+  * [Working with Teams and Security Levels](https://support.optisigns.com/hc/en-us/articles/360034883113?ref=related)
+  * [Billing for Multiple Locations: Sub-Accounts and Team Billing](https://support.optisigns.com/hc/en-us/articles/17129313173395?ref=related)
+  * [Sharing Playlists and Folders with External Users](https://support.optisigns.com/hc/en-us/articles/21708242980755?ref=related)
+
+
+
 ### That’s all!
 
 OptiSigns is the leader in[ digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 

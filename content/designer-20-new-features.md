@@ -357,6 +357,18 @@ To add a QR code:
 
 ![Designer screenshot features purple design with orange and white letters and QR code, numbered arrows show how to add QR codes](/hc/article_attachments/41432408683411)
 
+* * *
+
+## Related Articles
+
+  * [The New Designer: Complete Feature Guide](https://support.optisigns.com/hc/en-us/articles/57645638683411?ref=related)
+  * [Customize Text](https://support.optisigns.com/hc/en-us/articles/42157810188179?ref=related)
+  * [Animation](https://support.optisigns.com/hc/en-us/articles/42305104960147?ref=related)
+  * [Photos, GIFs, and QR Codes in Designer](https://support.optisigns.com/hc/en-us/articles/42526907045651?ref=related)
+  * [Shapes and Elements](https://support.optisigns.com/hc/en-us/articles/42307234534547?ref=related)
+
+
+
 ### **That's all!**
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 

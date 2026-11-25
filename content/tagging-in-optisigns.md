@@ -214,6 +214,17 @@ As we’ve mentioned before, setting these tags allows you to quickly push Asset
 
 Don’t forget: it’s possible to add as many tags as you’d like to any given screen or asset, so don’t hesitate to create complex webs or simple notation as you like. Feel free to experiment with the feature to make the easiest experience for your business.
 
+* * *
+
+## Related Articles
+
+  * [How to Use Content Tags in The Playlist](https://support.optisigns.com/hc/en-us/articles/20879903340947?ref=related)
+  * [Advanced Playlist Item Playback Control & Campaign Management](https://support.optisigns.com/hc/en-us/articles/22474034993043?ref=related)
+  * [Add 1 or multiple assets to many playlists at the same time](https://support.optisigns.com/hc/en-us/articles/4404616139411?ref=related)
+  * [Organizing your files, assets, playlists and schedules by using Folders](https://support.optisigns.com/hc/en-us/articles/360043670633?ref=related)
+
+
+
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

@@ -53,6 +53,17 @@ With this and the rest of the required fields filled out, you've properly config
 
 If so, hit **Save** to finish your API Request.
 
+* * *
+
+## Related Articles
+
+  * [Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync](https://support.optisigns.com/hc/en-us/articles/31860170199955?ref=related)
+  * [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
+  * [How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187?ref=related)
+  * [How to Use Toast API Data with OptiSigns](https://support.optisigns.com/hc/en-us/articles/31113088917907?ref=related)
+
+
+
 ### That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

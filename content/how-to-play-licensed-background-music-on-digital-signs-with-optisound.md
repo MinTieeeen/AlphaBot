@@ -178,6 +178,18 @@ To play the music through your business’s sound system you can either:
 
 Double-check your device’s audio output settings to make sure it matches your connection type.
 
+* * *
+
+## Related Articles
+
+  * [Push Contents to your Screens](https://support.optisigns.com/hc/en-us/articles/18988049363859?ref=related)
+  * [How to Manage and Edit Your Playlist Settings](https://support.optisigns.com/hc/en-us/articles/28295074995859?ref=related)
+  * [How to Use Overlay layers with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360050602413?ref=related)
+  * [Making a Video Wall with OptiSigns (Video Wall App)](https://support.optisigns.com/hc/en-us/articles/33382537925267?ref=related)
+  * [How to Use the OptiSigns Mobile Admin App](https://support.optisigns.com/hc/en-us/articles/30003143806099?ref=related)
+
+
+
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

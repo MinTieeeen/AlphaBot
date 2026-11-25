@@ -36,3 +36,13 @@ If you experience unexpected screen rotation or incorrect orientation when using
 
 
 This will ensure that the device follows the orientation settings configured in the OptiSigns web portal. If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+
+* * *
+
+## Related Articles
+
+  * [How to Fix the Scaling Issue on OptiSigns Android Devices](https://support.optisigns.com/hc/en-us/articles/28026588373139?ref=related)
+  * [Screen Calibration: Fix Content Bleeding off the Screen](https://support.optisigns.com/hc/en-us/articles/360041570153?ref=related)
+  * [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)
+
+

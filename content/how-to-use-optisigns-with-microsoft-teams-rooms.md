@@ -140,6 +140,18 @@ This Virtual Room app will now be saved as an Asset on OptiSigns. By clicking on
 
 * * *
 
+## Related Articles
+
+  * [Connect Microsoft Teams Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52350277262483?ref=related)
+  * [How to Display Microsoft Teams Chat on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4417940565139?ref=related)
+  * [How to Use the Microsoft Teams Meeting App](https://support.optisigns.com/hc/en-us/articles/4404053129619?ref=related)
+  * [How to Use Microsoft Excel Online with OptiSigns](https://support.optisigns.com/hc/en-us/articles/4529298306963?ref=related)
+  * [Room Integrations: Turn Your Meeting Rooms into Digital Signage](https://support.optisigns.com/hc/en-us/articles/52113036672403?ref=related)
+
+
+
+* * *
+
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

@@ -167,6 +167,17 @@ The OptiSigns Webex Rooms integration uses a screen license just like any other 
 
 
 
+* * *
+
+## Related Articles
+
+  * [Room Integrations: Turn Your Meeting Rooms into Digital Signage](https://support.optisigns.com/hc/en-us/articles/52113036672403?ref=related)
+  * [Connect Zoom Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52069065128723?ref=related)
+  * [Connect Microsoft Teams Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52350277262483?ref=related)
+  * [Connect Google Meet Hardware to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52412502456083?ref=related)
+
+
+
 Related to
 
   * [ webex ](/hc/en-us/search?content_tags=01KQKASP977DD5DM31P0VWAFAB&utf8=%E2%9C%93 "Search results")

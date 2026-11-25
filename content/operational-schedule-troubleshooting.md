@@ -130,6 +130,18 @@ Assuming the OptiStick is plugged into a wall socket and this issue persists, he
 
 If you've tried the above, feel free to [reach out to our support team](https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support).
 
+* * *
+
+## Related Articles
+
+  * [How To Create and Use Operational Schedules (HDMI-CEC, RS-232)](https://support.optisigns.com/hc/en-us/articles/28598173096723?ref=related)
+  * [Using RS232 to Schedule TV Power On/Off or other commands](https://support.optisigns.com/hc/en-us/articles/9061950942995?ref=related)
+  * [Preventing the OptiSigns App from Turning On your Screen](https://support.optisigns.com/hc/en-us/articles/15808407287315?ref=related)
+  * [OptiSigns Pro/ProMax Player Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40736654972563?ref=related)
+  * [OptiStick Troubleshooting Guide](https://support.optisigns.com/hc/en-us/articles/40147900639891?ref=related)
+
+
+
 ### That’s all!
 
 Still having problems with getting your Operational Schedule to work? Reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com) for additional help.

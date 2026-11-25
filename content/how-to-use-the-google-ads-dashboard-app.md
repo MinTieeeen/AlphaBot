@@ -141,6 +141,17 @@ You may need to alter the Width and Height on the Embed Code to get it to displa
   
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists) or [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns).
 
+* * *
+
+## Related Articles
+
+  * [How to Use the Google Search Console App](https://support.optisigns.com/hc/en-us/articles/48656950622227?ref=related)
+  * [How to Use the YouTube Dashboard App](https://support.optisigns.com/hc/en-us/articles/48626115821459?ref=related)
+  * [How to Use the Data Studio App](https://support.optisigns.com/hc/en-us/articles/360052088413?ref=related)
+  * [How to Display Microsoft Power BI Dashboards & Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+
+
+
 ### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

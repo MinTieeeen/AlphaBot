@@ -147,3 +147,14 @@ Activating signage on a Meet room uses **one screen license** from your OptiSign
   * Related: [Connect Zoom Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage) · [Connect Microsoft Teams Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage) · [Connect Cisco Webex Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage)
 
 
+
+* * *
+
+## Related Articles
+
+  * [Room Integrations: Turn Your Meeting Rooms into Digital Signage](https://support.optisigns.com/hc/en-us/articles/52113036672403?ref=related)
+  * [Connect Microsoft Teams Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52350277262483?ref=related)
+  * [Connect Zoom Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52069065128723?ref=related)
+  * [Connect Cisco Webex Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/51343184586643?ref=related)
+
+

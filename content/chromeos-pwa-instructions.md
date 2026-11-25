@@ -191,6 +191,18 @@ Now you can launch OptiSigns from the ChromeOS Launcher on any ChromeOS device (
 
 ![ChromeOS Launcher open from the bottom-left corner, arrow on the OptiSigns app icon](/hc/article_attachments/50288483065875)
 
+* * *
+
+## Related Articles
+
+  * [Set Up, Add, or Unpair a Screen](https://support.optisigns.com/hc/en-us/articles/360016374813?ref=related)
+  * [Android TV / ChromeCast](https://support.optisigns.com/hc/en-us/articles/1500004699122?ref=related)
+  * [Windows](https://support.optisigns.com/hc/en-us/articles/360034379293?ref=related)
+  * [Kiosk Setup Hub](https://support.optisigns.com/hc/en-us/articles/44650391786131?ref=related)
+  * [Enabling Lock Down Mode on Touch Screen Devices](https://support.optisigns.com/hc/en-us/articles/30310366838803?ref=related)
+
+
+
 ### That's all!
 
 OptiSigns is the leader in[ digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 

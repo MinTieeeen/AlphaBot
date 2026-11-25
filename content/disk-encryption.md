@@ -62,6 +62,17 @@ To recover your data, connect the encrypted OptiSigns Player to another device u
 
 By inputting this password, you’ll be able to access the data and use it however you see fit.
 
+* * *
+
+## Related Articles
+
+  * [Data Residency and OptiSigns](https://support.optisigns.com/hc/en-us/articles/9169378546195?ref=related)
+  * [How to Configure Multi-Factor Authentication with your OptiSigns account.](https://support.optisigns.com/hc/en-us/articles/18381542133779?ref=related)
+  * [Setting Up Audit Logging](https://support.optisigns.com/hc/en-us/articles/4403332894867?ref=related)
+  * [What Access Does OptiSigns Have to My Account and Devices?](https://support.optisigns.com/hc/en-us/articles/53216900345875?ref=related)
+
+
+
 ### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com). 
